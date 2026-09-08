@@ -1,6 +1,7 @@
 {
   "publisher": "Кодолимп, codolymp.ru",
   "license": "CC BY 4.0",
+  "repository": "https://github.com/Cyberhand2/codolymp-opendata",
   "attribution": "При использовании укажите источник: Кодолимп, https://codolymp.ru/otkrytye-dannye",
   "built_on": "2026-09-08",
   "datasets": [
