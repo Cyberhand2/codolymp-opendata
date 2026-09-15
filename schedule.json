@@ -256,7 +256,7 @@
   "stage": "",
   "when": "1 июля — 20 сентября 2026",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-10",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -266,7 +266,7 @@
   "stage": "Тренировочный этап и регистрация",
   "when": "1 июля — 20 сентября 2026",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-10",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -276,7 +276,7 @@
   "stage": "Вебинар по подготовке к отборочному этапу",
   "when": "19 сентября",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-10",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -286,7 +286,7 @@
   "stage": "Отборочный этап",
   "when": "21 сентября — 6 октября",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-10",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -296,7 +296,7 @@
   "stage": "Результаты отборочного этапа и разбор заданий",
   "when": "12 октября",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-10",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -306,27 +306,27 @@
   "stage": "Основной этап, тур 1, онлайн без прокторинга",
   "when": "14–16 октября, три задачи по ML",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-10",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
   "n": 7,
   "name": "Всероссийская олимпиада по искусственному интеллекту (с возможностью участия иностранных обучающихся)",
   "kind": "этап",
-  "stage": "Итоги тура 1: лучшие 25% решают задачу с прокторингом",
-  "when": "17 октября, 10:00–12:00 МСК",
+  "stage": "Итоги тура 1",
+  "when": "17 октября",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-10",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
   "n": 7,
   "name": "Всероссийская олимпиада по искусственному интеллекту (с возможностью участия иностранных обучающихся)",
   "kind": "этап",
-  "stage": "Основной этап, тур 2, очно",
-  "when": "18 октября",
+  "stage": "Основной этап, тур 2",
+  "when": "18 октября, лучшие 25% рейтинга решают одну задачу по ML с прокторингом, 10:00–12:00 МСК",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-10",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -336,7 +336,7 @@
   "stage": "Заключительный этап",
   "when": "16–21 ноября",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-10",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -346,7 +346,7 @@
   "stage": "Итоги олимпиады и апелляция",
   "when": "20 ноября — у организатора стоит внутри окна заключительного этапа",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-10",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -356,7 +356,7 @@
   "stage": "Награждение победителей и призёров",
   "when": "21 ноября",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-10",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -522,32 +522,72 @@
  {
   "n": 11,
   "name": "Всероссийская Сеченовская олимпиада школьников",
-  "kind": "этап",
-  "stage": "Регистрация и первый (отборочный) этап",
-  "when": "1–30 октября 2025 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
-  "organizer_url": "https://www.sechenov.ru/univers/structure/facultie/dovuz/olimpiady/"
+  "kind": "регистрация",
+  "stage": "",
+  "when": "с 00:01 МСК 1 октября до 23:59 МСК 29 октября 2026; регистрация общая на олимпиады по биологии и по химии и на первый (отборочный) этап",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
  },
  {
   "n": 11,
   "name": "Всероссийская Сеченовская олимпиада школьников",
   "kind": "этап",
-  "stage": "Первый (отборочный) этап, онлайн",
-  "when": "10–30 ноября 2025 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
-  "organizer_url": "https://www.sechenov.ru/univers/structure/facultie/dovuz/olimpiady/"
+  "stage": "Регистрация и первый (отборочный) этап",
+  "when": "с 00:01 МСК 1 октября 2026 года до 23:59 МСК 29 октября 2026 года",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
+ },
+ {
+  "n": 11,
+  "name": "Всероссийская Сеченовская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Проведение первого (отборочного) этапа",
+  "when": "с 00:01 МСК 10 ноября 2026 года до 23:59 МСК 30 ноября 2026 года",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
+ },
+ {
+  "n": 11,
+  "name": "Всероссийская Сеченовская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Проверка работ участников",
+  "when": "с 1 декабря 2026 года по 4 декабря 2026 года",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
+ },
+ {
+  "n": 11,
+  "name": "Всероссийская Сеченовская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Предварительные результаты",
+  "when": "8 декабря 2026 года",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
+ },
+ {
+  "n": 11,
+  "name": "Всероссийская Сеченовская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Апелляции",
+  "when": "11 декабря 2026 года",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
  },
  {
   "n": 11,
   "name": "Всероссийская Сеченовская олимпиада школьников",
   "kind": "этап",
   "stage": "Окончательные результаты отборочного этапа",
-  "when": "18 декабря 2025 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
-  "organizer_url": "https://www.sechenov.ru/univers/structure/facultie/dovuz/olimpiady/"
+  "when": "18 декабря 2026 года",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
  },
  {
   "n": 11,
@@ -556,8 +596,8 @@
   "stage": "Заключительный этап по биологии, 5–7 классы",
   "when": "7 февраля 2026 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
-  "organizer_url": "https://www.sechenov.ru/univers/structure/facultie/dovuz/olimpiady/"
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
  },
  {
   "n": 11,
@@ -566,8 +606,8 @@
   "stage": "Заключительный этап по биологии, 8–9 классы",
   "when": "8 февраля 2026 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
-  "organizer_url": "https://www.sechenov.ru/univers/structure/facultie/dovuz/olimpiady/"
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
  },
  {
   "n": 11,
@@ -576,8 +616,8 @@
   "stage": "Заключительный этап по биологии, 10 класс",
   "when": "14 февраля 2026 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
-  "organizer_url": "https://www.sechenov.ru/univers/structure/facultie/dovuz/olimpiady/"
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
  },
  {
   "n": 11,
@@ -586,8 +626,8 @@
   "stage": "Заключительный этап по биологии, 11 класс",
   "when": "15 февраля 2026 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
-  "organizer_url": "https://www.sechenov.ru/univers/structure/facultie/dovuz/olimpiady/"
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
  },
  {
   "n": 11,
@@ -596,8 +636,8 @@
   "stage": "Награждение победителей и призёров",
   "when": "3 апреля 2026 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
-  "organizer_url": "https://www.sechenov.ru/univers/structure/facultie/dovuz/olimpiady/"
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
  },
  {
   "n": 12,
@@ -1164,9 +1204,9 @@
   "name": "Международная олимпиада «Innopolis Open»",
   "kind": "регистрация",
   "stage": "",
-  "when": "Сезон 2026/27 не объявлен. На странице профиля «Информатика» стоит «Регистрация закрыта!» — это состояние завершённого сезона 2025/26.",
+  "when": "Сезон 2026/27 не объявлен: 15.09.2026 профиль «Информатика» по-прежнему пишет «Регистрация закрыта!», общая страница держит сроки 2025/26.",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://dovuz.innopolis.university/pre-olympiads/innopolis-open"
  },
  {
@@ -1176,7 +1216,7 @@
   "stage": "Первый отборочный тур",
   "when": "3–9 ноября 2025, онлайн (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://dovuz.innopolis.university/pre-olympiads/innopolis-open"
  },
  {
@@ -1186,7 +1226,7 @@
   "stage": "Окончание регистрации",
   "when": "4 декабря 2025 в 15:00 МСК (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://dovuz.innopolis.university/pre-olympiads/innopolis-open"
  },
  {
@@ -1196,7 +1236,7 @@
   "stage": "Второй отборочный тур",
   "when": "8–14 декабря 2025, онлайн (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://dovuz.innopolis.university/pre-olympiads/innopolis-open"
  },
  {
@@ -1206,7 +1246,7 @@
   "stage": "Финальный этап",
   "when": "27 февраля — 1 марта 2026, очно (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://dovuz.innopolis.university/pre-olympiads/innopolis-open"
  },
  {
@@ -1334,9 +1374,9 @@
   "name": "Международная олимпиада школьников Уральского федерального университета «Изумруд»",
   "kind": "регистрация",
   "stage": "",
-  "when": "регистрация идёт вместе с отборочным этапом, 1 сентября 2026 — 19 января 2027, в личном кабинете; отборочный проходят онлайн, повторная попытка запрещена",
+  "when": "регистрация идёт вместе с отборочным этапом, 1 сентября 2026 — 19 января 2027 до 23:59 по времени Екатеринбурга, в личном кабинете; отборочный проходят онлайн, одна попытка на профиль по 60 минут, повторная запрещена",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
  },
  {
@@ -1346,7 +1386,7 @@
   "stage": "Регистрация и отборочный этап",
   "when": "1 сентября 2026 — 19 января 2027",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
  },
  {
@@ -1356,7 +1396,7 @@
   "stage": "Подготовка к заключительному этапу",
   "when": "20–24 января",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
  },
  {
@@ -1366,7 +1406,7 @@
   "stage": "Заключительный этап",
   "when": "30 января — 2 февраля",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
  },
  {
@@ -1376,7 +1416,7 @@
   "stage": "Проверенная работа и апелляция",
   "when": "20 марта, 12:00 по времени Екатеринбурга",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
  },
  {
@@ -1386,47 +1426,57 @@
   "stage": "Итоги олимпиады",
   "when": "27 марта",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
+ },
+ {
+  "n": 27,
+  "name": "Межрегиональная олимпиада по праву «ФЕМИДА»",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "с 07:00 МСК 1 октября до 22:00 МСК 10 ноября 2026",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://olymp.rgup.ru/"
  },
  {
   "n": 27,
   "name": "Межрегиональная олимпиада по праву «ФЕМИДА»",
   "kind": "этап",
   "stage": "Регистрация",
-  "when": "1 октября 2025, 00:00 МСК — 13 ноября 2025, 14:00 МСК (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "when": "1 октября 2026 г. (с 7:00 МСК) — 10 ноября 2026 г. (до 22:00 МСК)",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.rgup.ru/"
  },
  {
   "n": 27,
   "name": "Межрегиональная олимпиада по праву «ФЕМИДА»",
   "kind": "этап",
-  "stage": "Отборочный этап, онлайн, 9 класс",
-  "when": "30 ноября 2025 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "stage": "Отборочный этап, 9 класс",
+  "when": "29 ноября 2026 г.",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.rgup.ru/"
  },
  {
   "n": 27,
   "name": "Межрегиональная олимпиада по праву «ФЕМИДА»",
   "kind": "этап",
-  "stage": "Отборочный этап, онлайн, 10 класс",
-  "when": "7 декабря 2025 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "stage": "Отборочный этап, 10 класс",
+  "when": "6 декабря 2026 г.",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.rgup.ru/"
  },
  {
   "n": 27,
   "name": "Межрегиональная олимпиада по праву «ФЕМИДА»",
   "kind": "этап",
-  "stage": "Отборочный этап, онлайн, 11 класс",
-  "when": "14 декабря 2025 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "stage": "Отборочный этап, 11 класс",
+  "when": "13 декабря 2026 г.",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.rgup.ru/"
  },
  {
@@ -1434,19 +1484,19 @@
   "name": "Межрегиональная олимпиада по праву «ФЕМИДА»",
   "kind": "этап",
   "stage": "Заключительный этап, очно",
-  "when": "1 февраля 2026, начало 09:00 МСК (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "when": "31 января 2027 года, начало в 09:00 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.rgup.ru/"
  },
  {
   "n": 27,
   "name": "Межрегиональная олимпиада по праву «ФЕМИДА»",
   "kind": "этап",
-  "stage": "Просмотр работ и апелляция",
-  "when": "заявка 19–20 февраля, просмотр 28 февраля 2026 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "stage": "Просмотр работ: подача заявки",
+  "when": "с 12:00 19 февраля до 12:00 20 февраля 2027 г. (МСК)",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.rgup.ru/"
  },
  {
@@ -1456,7 +1506,7 @@
   "stage": "",
   "when": "с 15 сентября 2026 года до 23:59 2 февраля 2027 года (совпадает с окном первого отборочного этапа)",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://www.tyuiu.ru/postuplenie/skolnikam/olimpiady-konkursy-i-meropriiatiia"
  },
  {
@@ -1466,7 +1516,7 @@
   "stage": "Первый отборочный этап (онлайн-тестирование)",
   "when": "с 15 сентября 2026 года до 23:59 часов 2 февраля 2027 года",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://www.tyuiu.ru/postuplenie/skolnikam/olimpiady-konkursy-i-meropriiatiia"
  },
  {
@@ -1476,7 +1526,7 @@
   "stage": "Заключительный этап, конкурс «Рисунок»",
   "when": "23 марта 2027 года, с 10:00",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://www.tyuiu.ru/postuplenie/skolnikam/olimpiady-konkursy-i-meropriiatiia"
  },
  {
@@ -1486,7 +1536,7 @@
   "stage": "Заключительный этап, конкурс «Композиция»",
   "when": "25 марта 2027 года, с 10:00",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://www.tyuiu.ru/postuplenie/skolnikam/olimpiady-konkursy-i-meropriiatiia"
  },
  {
@@ -1508,6 +1558,26 @@
   "confirmed": "нет",
   "checked_on": "2026-09-02",
   "organizer_url": "https://bibn.unn.ru/"
+ },
+ {
+  "n": 30,
+  "name": "Межрегиональная олимпиада школьников имени В.Е. Татлина",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "регистрация на сайте олимпиады откроется 15 октября 2026 г.; приём работ отборочного этапа — до 10 декабря 2026 года",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.pguas.ru/tatlin"
+ },
+ {
+  "n": 30,
+  "name": "Межрегиональная олимпиада школьников имени В.Е. Татлина",
+  "kind": "этап",
+  "stage": "Отборочный этап, заочно",
+  "when": "с 15 октября по 30 декабря 2026 года (приём работ завершается 10 декабря 2026 года)",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.pguas.ru/tatlin"
  },
  {
   "n": 31,
@@ -1540,6 +1610,26 @@
   "organizer_url": "https://ikb.mtuci.ru/"
  },
  {
+  "n": 32,
+  "name": "Межрегиональная олимпиада школьников на базе ведомственных образовательных организаций",
+  "kind": "этап",
+  "stage": "Иностранный язык: отборочный этап",
+  "when": "с 01 декабря 2026 г. по 11 января 2027 г.",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://v-olymp.ru/schedule"
+ },
+ {
+  "n": 32,
+  "name": "Межрегиональная олимпиада школьников на базе ведомственных образовательных организаций",
+  "kind": "этап",
+  "stage": "Иностранный язык: заключительный этап",
+  "when": "24 января 2027 г.",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://v-olymp.ru/schedule"
+ },
+ {
   "n": 33,
   "name": "Межрегиональная химическая олимпиада школьников имени академика П.Д. Саркисова",
   "kind": "этап",
@@ -1562,51 +1652,11 @@
  {
   "n": 34,
   "name": "Межрегиональные предметные олимпиады федерального государственного автономного образовательного учреждения высшего образования «Казанский (Приволжский) федеральный университет»",
-  "kind": "регистрация",
-  "stage": "",
-  "when": "Сезон 2026/27 не объявлен. Сайт держит приглашение в сезон 2025/26.",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
-  "organizer_url": "https://malun.kpfu.ru/mpo"
- },
- {
-  "n": 34,
-  "name": "Межрегиональные предметные олимпиады федерального государственного автономного образовательного учреждения высшего образования «Казанский (Приволжский) федеральный университет»",
   "kind": "этап",
-  "stage": "Отборочный этап, заочно",
-  "when": "5–30 ноября 2025 до 23:59 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
-  "organizer_url": "https://malun.kpfu.ru/mpo"
- },
- {
-  "n": 34,
-  "name": "Межрегиональные предметные олимпиады федерального государственного автономного образовательного учреждения высшего образования «Казанский (Приволжский) федеральный университет»",
-  "kind": "этап",
-  "stage": "Рейтинговые списки отборочного этапа",
-  "when": "5 декабря 2025 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
-  "organizer_url": "https://malun.kpfu.ru/mpo"
- },
- {
-  "n": 34,
-  "name": "Межрегиональные предметные олимпиады федерального государственного автономного образовательного учреждения высшего образования «Казанский (Приволжский) федеральный университет»",
-  "kind": "этап",
-  "stage": "Апелляции отборочного этапа",
-  "when": "8–10 декабря 2025 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
-  "organizer_url": "https://malun.kpfu.ru/mpo"
- },
- {
-  "n": 34,
-  "name": "Межрегиональные предметные олимпиады федерального государственного автономного образовательного учреждения высшего образования «Казанский (Приволжский) федеральный университет»",
-  "kind": "этап",
-  "stage": "Регистрация на заключительный этап",
-  "when": "23 декабря 2025 — 11 января 2026 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "stage": "Отборочный этап, заочно с ДОТ",
+  "when": "с 26 октября по 23 ноября 2026 года",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://malun.kpfu.ru/mpo"
  },
  {
@@ -1614,9 +1664,9 @@
   "name": "Межрегиональные предметные олимпиады федерального государственного автономного образовательного учреждения высшего образования «Казанский (Приволжский) федеральный университет»",
   "kind": "этап",
   "stage": "Заключительный этап, очно",
-  "when": "12 января — 8 февраля 2026, КФУ и площадки партнёров (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "when": "с 13 января по 07 февраля 2027 года, КФУ и площадки партнёров",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://malun.kpfu.ru/mpo"
  },
  {
@@ -2016,7 +2066,7 @@
   "stage": "",
   "when": "Сезон 2026/27 не объявлен. Корень раздела до сих пор перебрасывает на страницу прошлого сезона.",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olympiads.mccme.ru/ommo/"
  },
  {
@@ -2026,7 +2076,7 @@
   "stage": "Первый тур, отборочный, заочный",
   "when": "11–25 января через «Сириус.Онлайн» (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olympiads.mccme.ru/ommo/"
  },
  {
@@ -2036,7 +2086,7 @@
   "stage": "Финальный тур, очный",
   "when": "1 февраля, начало 10:00 МСК (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olympiads.mccme.ru/ommo/"
  },
  {
@@ -2046,7 +2096,7 @@
   "stage": "Результаты и апелляции",
   "when": "результаты 22–23 марта, апелляции до 26 марта (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olympiads.mccme.ru/ommo/"
  },
  {
@@ -2106,7 +2156,7 @@
   "stage": "",
   "when": "регистрация и отборочный этап — ноябрь–январь; точные даты сезона 2026/27 организатором ещё не опубликованы",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.mgimo.ru/"
  },
  {
@@ -2116,7 +2166,7 @@
   "stage": "Регистрация и дистанционный отборочный этап",
   "when": "старт олимпиады — ноябрь 2026; регистрация и отборочный идут ноябрь — январь",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.mgimo.ru/"
  },
  {
@@ -2126,7 +2176,7 @@
   "stage": "Результаты отборочного этапа и апелляции",
   "when": "февраль (год организатор не указал)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.mgimo.ru/"
  },
  {
@@ -2136,7 +2186,7 @@
   "stage": "Очный заключительный этап",
   "when": "март (год организатор не указал)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.mgimo.ru/"
  },
  {
@@ -2146,7 +2196,7 @@
   "stage": "Результаты заключительного этапа и апелляции",
   "when": "апрель (год организатор не указал)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.mgimo.ru/"
  },
  {
@@ -2666,7 +2716,7 @@
   "stage": "Пригласительный (нулевой) этап",
   "when": "15 сентября 2025 — 15 января 2026; регистрация 15 сентября — 20 декабря 2025 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://umov.phys.msu.ru/"
  },
  {
@@ -2676,7 +2726,7 @@
   "stage": "Отборочный этап",
   "when": "10 декабря 2025 — 31 января 2026; регистрация 1 ноября 2025 — 20 января 2026 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://umov.phys.msu.ru/"
  },
  {
@@ -2686,7 +2736,7 @@
   "stage": "Отборочный этап: теоретический тур",
   "when": "1 поток 24–25 января 2026, 2 поток 1–2 февраля 2026 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://umov.phys.msu.ru/"
  },
  {
@@ -2696,7 +2746,7 @@
   "stage": "Заключительный этап",
   "when": "1 марта — 12 апреля 2026; проходят 45% лучших по сумме баллов отбора (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://umov.phys.msu.ru/"
  },
  {
@@ -2706,7 +2756,7 @@
   "stage": "Заключительный этап: теоретический тур",
   "when": "4 апреля, физфак МГУ (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://umov.phys.msu.ru/"
  },
  {
@@ -2714,9 +2764,9 @@
   "name": "Олимпиада школьников «Физтех»",
   "kind": "регистрация",
   "stage": "",
-  "when": "запись открывается 7 сентября 2026 в 10:00 МСК; на каждый тур записываются отдельно — до 10 октября на первый, до 31 октября на второй, до 6 ноября на третий",
+  "when": "запись открыта с 7 сентября 2026, 10:00 МСК; на каждый тур записываются отдельно — по физике до 3 октября, по математике до 10 октября, по русскому языку до 30 октября; на заключительный этап отдельная запись 28 января — 8 февраля 2027",
   "confirmed": "да",
-  "checked_on": "2026-09-04",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://olymp-online.mipt.ru/"
  },
  {
@@ -2724,9 +2774,9 @@
   "name": "Олимпиада школьников «Физтех»",
   "kind": "этап",
   "stage": "Открытие регистрации на отборочный этап",
-  "when": "7 сентября 2026, 10:00 МСК — на математику и физику; на каждый предмет заявка отдельная",
+  "when": "7 сентября 2026, 10:00 МСК — запись открылась; на математику, физику и русский язык заявка отдельная, на каждый тур записываются отдельно",
   "confirmed": "да",
-  "checked_on": "2026-09-04",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://olymp-online.mipt.ru/"
  },
  {
@@ -2736,7 +2786,7 @@
   "stage": "Отборочный этап, 1 тур (математика, 9–11 кл.)",
   "when": "11 октября, 10:00 МСК; регистрация до 10 октября 10:00 МСК",
   "confirmed": "да",
-  "checked_on": "2026-09-04",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://olymp-online.mipt.ru/"
  },
  {
@@ -2746,7 +2796,7 @@
   "stage": "Отборочный этап, 2 тур (математика, 9–11 кл.)",
   "when": "1 ноября, 8:00 МСК; регистрация до 31 октября 8:00 МСК",
   "confirmed": "да",
-  "checked_on": "2026-09-04",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://olymp-online.mipt.ru/"
  },
  {
@@ -2756,7 +2806,7 @@
   "stage": "Отборочный этап, 3 тур (математика, 11 кл.)",
   "when": "7 ноября, 10:00 МСК; регистрация до 6 ноября 10:00 МСК",
   "confirmed": "да",
-  "checked_on": "2026-09-04",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://olymp-online.mipt.ru/"
  },
  {
@@ -2766,7 +2816,7 @@
   "stage": "Заключительный этап по математике",
   "when": "14 февраля",
   "confirmed": "да",
-  "checked_on": "2026-09-04",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://olymp-online.mipt.ru/"
  },
  {
@@ -2776,7 +2826,7 @@
   "stage": "Отборочный этап, 1 тур (физика, 9–11 кл.)",
   "when": "4 октября, 10:00 МСК; регистрация до 3 октября 10:00 МСК",
   "confirmed": "да",
-  "checked_on": "2026-09-04",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://olymp-online.mipt.ru/"
  },
  {
@@ -2786,7 +2836,7 @@
   "stage": "Отборочный этап, 2 тур (физика, 9–11 кл.)",
   "when": "25 октября, 8:00 МСК; регистрация до 24 октября 8:00 МСК",
   "confirmed": "да",
-  "checked_on": "2026-09-04",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://olymp-online.mipt.ru/"
  },
  {
@@ -2796,7 +2846,7 @@
   "stage": "Отборочный этап, 3 тур (физика, 11 кл.)",
   "when": "8 ноября, 10:00 МСК; регистрация до 7 ноября 10:00 МСК",
   "confirmed": "да",
-  "checked_on": "2026-09-04",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://olymp-online.mipt.ru/"
  },
  {
@@ -2806,7 +2856,37 @@
   "stage": "Заключительный этап по физике",
   "when": "13 февраля",
   "confirmed": "да",
-  "checked_on": "2026-09-04",
+  "checked_on": "2026-09-09",
+  "organizer_url": "https://olymp-online.mipt.ru/"
+ },
+ {
+  "n": 54,
+  "name": "Олимпиада школьников «Физтех»",
+  "kind": "этап",
+  "stage": "Отборочный этап, 1 тур (русский язык, 9–11 кл.)",
+  "when": "8 ноября — 8 декабря 2026; регистрация до 30 октября 10:00 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-09-09",
+  "organizer_url": "https://olymp-online.mipt.ru/"
+ },
+ {
+  "n": 54,
+  "name": "Олимпиада школьников «Физтех»",
+  "kind": "этап",
+  "stage": "Заключительный этап по русскому языку",
+  "when": "13 февраля",
+  "confirmed": "да",
+  "checked_on": "2026-09-09",
+  "organizer_url": "https://olymp-online.mipt.ru/"
+ },
+ {
+  "n": 54,
+  "name": "Олимпиада школьников «Физтех»",
+  "kind": "этап",
+  "stage": "Регистрация на заключительный этап",
+  "when": "28 января 2027, 13:00 МСК — 8 февраля 2027, 13:00 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://olymp-online.mipt.ru/"
  },
  {
@@ -2816,7 +2896,7 @@
   "stage": "Профиль «научно-технический» («Старт в науку»): приём научных работ и основное тестирование",
   "when": "до 30 декабря 2026 года (start.mipt.ru)",
   "confirmed": "да",
-  "checked_on": "2026-09-04",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://olymp-online.mipt.ru/"
  },
  {
@@ -2826,7 +2906,7 @@
   "stage": "Профиль «научно-технический» («Старт в науку»): итоги оценки научных работ",
   "when": "до 31 января 2027 года (start.mipt.ru)",
   "confirmed": "да",
-  "checked_on": "2026-09-04",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://olymp-online.mipt.ru/"
  },
  {
@@ -2836,8 +2916,28 @@
   "stage": "Профиль «научно-технический» («Старт в науку»): заключительный этап",
   "when": "27 марта — 4 апреля 2027 года, очно в г. Долгопрудный (start.mipt.ru)",
   "confirmed": "да",
-  "checked_on": "2026-09-04",
+  "checked_on": "2026-09-09",
   "organizer_url": "https://olymp-online.mipt.ru/"
+ },
+ {
+  "n": 55,
+  "name": "Олимпиада школьников «Шаг в будущее»",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "регистрация на сезон 2026/27 открыта (новость организатора 14.09.2026); расписание и формат отборочного этапа организатор опубликует дополнительно",
+  "confirmed": "нет",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://olymp.bmstu.ru/ru"
+ },
+ {
+  "n": 55,
+  "name": "Олимпиада школьников «Шаг в будущее»",
+  "kind": "этап",
+  "stage": "Регистрация",
+  "when": "открыта с 14.09.2026 (новость организатора)",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://olymp.bmstu.ru/ru"
  },
  {
   "n": 55,
@@ -2846,7 +2946,7 @@
   "stage": "Отборочный этап по математике, три волны",
   "when": "10–13 октября, 14–17 ноября, 12–15 декабря 2025 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.bmstu.ru/ru"
  },
  {
@@ -2856,7 +2956,7 @@
   "stage": "Заключительный этап",
   "when": "7 марта 2026 для 11 класса, 9 марта 2026 для 8–10 классов, 10:00 МСК (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.bmstu.ru/ru"
  },
  {
@@ -2912,11 +3012,31 @@
  {
   "n": 57,
   "name": "Олимпиада школьников по программированию «ТехноКубок»",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "регистрация на сезон 2026/27 открыта на All Cups; расписание туров на сайте организатора пока за 2025/26",
+  "confirmed": "нет",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://techno-cup.ru/"
+ },
+ {
+  "n": 57,
+  "name": "Олимпиада школьников по программированию «ТехноКубок»",
+  "kind": "этап",
+  "stage": "Регистрация",
+  "when": "открыта: «Регистрируйся для участия в 2026-2027 гг.»",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://techno-cup.ru/"
+ },
+ {
+  "n": 57,
+  "name": "Олимпиада школьников по программированию «ТехноКубок»",
   "kind": "этап",
   "stage": "Регистрация",
   "when": "6 ноября — 7 декабря, начало 10:00 3 ноября, окончание 20:00 7 декабря (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://techno-cup.ru/"
  },
  {
@@ -2926,7 +3046,7 @@
   "stage": "Ознакомительный раунд",
   "when": "10:00 6 ноября — 14:00 7 декабря (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://techno-cup.ru/"
  },
  {
@@ -2936,7 +3056,7 @@
   "stage": "Первый отборочный этап, 1 раунд",
   "when": "14:05 16 ноября (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://techno-cup.ru/"
  },
  {
@@ -2946,7 +3066,7 @@
   "stage": "Первый отборочный этап, 2 раунд",
   "when": "10:05 7 декабря (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://techno-cup.ru/"
  },
  {
@@ -2956,7 +3076,7 @@
   "stage": "Второй отборочный этап, офлайн",
   "when": "10:35 8 февраля, более 25 площадок (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://techno-cup.ru/"
  },
  {
@@ -2966,17 +3086,57 @@
   "stage": "Заключительный этап, офлайн",
   "when": "13–15 марта, МФТИ, Долгопрудный (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://techno-cup.ru/"
+ },
+ {
+  "n": 58,
+  "name": "Олимпиада школьников Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "с 10:00 16 сентября до 18:00 18 ноября 2026 (регистрация на отборочный этап)",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.ranepa.ru/olymp/"
+ },
+ {
+  "n": 58,
+  "name": "Олимпиада школьников Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации",
+  "kind": "этап",
+  "stage": "Регистрация на отборочный этап",
+  "when": "16.09.2026 10:00 — 18.11.2026 18:00",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.ranepa.ru/olymp/"
  },
  {
   "n": 58,
   "name": "Олимпиада школьников Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации",
   "kind": "этап",
   "stage": "Отборочный этап, онлайн",
-  "when": "23 октября — 17 ноября 2025 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "when": "с 20 октября по 18 ноября 2026 года",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.ranepa.ru/olymp/"
+ },
+ {
+  "n": 58,
+  "name": "Олимпиада школьников Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации",
+  "kind": "этап",
+  "stage": "Результаты отборочного этапа",
+  "when": "22.12.2026",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://www.ranepa.ru/olymp/"
+ },
+ {
+  "n": 58,
+  "name": "Олимпиада школьников Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации",
+  "kind": "этап",
+  "stage": "Регистрация победителей и призёров отбора на заключительный этап",
+  "when": "22.12.2026 — 18.01.2027",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://www.ranepa.ru/olymp/"
  },
  {
@@ -2984,19 +3144,19 @@
   "name": "Олимпиада школьников Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации",
   "kind": "этап",
   "stage": "Заключительный этап, очно",
-  "when": "31 января — 8 февраля 2026 по дням профилей (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "when": "30.01.2027 — 11.02.2027",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://www.ranepa.ru/olymp/"
  },
  {
   "n": 58,
   "name": "Олимпиада школьников Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации",
   "kind": "этап",
-  "stage": "Заключительный этап, профиль «Обществознание»",
-  "when": "1 февраля 2026 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "stage": "Окончательные результаты заключительного этапа",
+  "when": "08.04.2027",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://www.ranepa.ru/olymp/"
  },
  {
@@ -3104,9 +3264,9 @@
   "name": "Олимпиада Юношеской математической школы",
   "kind": "регистрация",
   "stage": "",
-  "when": "отдельной записи на отборочный тур нет: по регламенту прошлого сезона участник регистрируется в момент сдачи работы; на заключительный тур организатор просит записаться до 23:59 накануне",
+  "when": "запись на отборочные туры открыта на платформе Т-Образования, адрес дан на странице организатора; на заключительный тур — до 23:59 12 декабря (7–11 классы) и до 23:59 16 января (4–6 классы), даты финала организатор называет ориентировочными",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://yumsh.ru/cms/yumsh-olymp/2026-27"
  },
  {
@@ -3116,7 +3276,7 @@
   "stage": "Отборочный тур, первая попытка",
   "when": "13 сентября 2026 (воскресенье), 10:00 МСК",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://yumsh.ru/cms/yumsh-olymp/2026-27"
  },
  {
@@ -3124,9 +3284,9 @@
   "name": "Олимпиада Юношеской математической школы",
   "kind": "этап",
   "stage": "Отборочный тур, вторая попытка",
-  "when": "17 октября (суббота), 16:00 МСК",
+  "when": "17 октября 2026 (суббота), 16:00 МСК",
   "confirmed": "да",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://yumsh.ru/cms/yumsh-olymp/2026-27"
  },
  {
@@ -3136,7 +3296,7 @@
   "stage": "Заключительный очный тур, 7–11 классы",
   "when": "ориентировочно 13 декабря 2026",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://yumsh.ru/cms/yumsh-olymp/2026-27"
  },
  {
@@ -3146,7 +3306,7 @@
   "stage": "Заключительный очный тур, 4–6 классы",
   "when": "ориентировочно 17 января 2027",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://yumsh.ru/cms/yumsh-olymp/2026-27"
  },
  {
@@ -3246,7 +3406,7 @@
   "stage": "Отборочный этап, 5–9 классы, два тура",
   "when": "1-й тур 3–9 декабря, 2-й тур 4–10 февраля (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.itmo.ru/"
  },
  {
@@ -3256,7 +3416,7 @@
   "stage": "Отборочный этап, 10–11 классы, с прокторингом",
   "when": "17 января 11:00 — 19 января 21:00 МСК (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.itmo.ru/"
  },
  {
@@ -3266,7 +3426,7 @@
   "stage": "Заключительный этап",
   "when": "14 марта, очно (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.itmo.ru/"
  },
  {
@@ -3473,10 +3633,20 @@
   "n": 70,
   "name": "Отраслевая физико-математическая олимпиада школьников «Росатом»",
   "kind": "этап",
+  "stage": "Отборочный тур по физике, очно в Москве",
+  "when": "27 сентября 2026, НИЯУ МИФИ (Каширское шоссе, 31)",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://olymp.mephi.ru/rosatom/about"
+ },
+ {
+  "n": 70,
+  "name": "Отраслевая физико-математическая олимпиада школьников «Росатом»",
+  "kind": "этап",
   "stage": "Отборочный этап, очно в Москве",
   "when": "16 ноября 2025 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.mephi.ru/rosatom/about"
  },
  {
@@ -3486,7 +3656,7 @@
   "stage": "Отборочный этап, очно в регионах",
   "when": "15–16 ноября 2025 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.mephi.ru/rosatom/about"
  },
  {
@@ -3496,7 +3666,7 @@
   "stage": "Отборочный этап, дистанционно",
   "when": "17 ноября — 21 декабря 2025 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.mephi.ru/rosatom/about"
  },
  {
@@ -3506,7 +3676,7 @@
   "stage": "Заключительный этап по математике",
   "when": "8 февраля 2026 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://olymp.mephi.ru/rosatom/about"
  },
  {
@@ -3842,21 +4012,31 @@
  {
   "n": 82,
   "name": "Турнир имени М.В. Ломоносова",
-  "kind": "этап",
-  "stage": "Регистрация",
-  "when": "4–27 сентября, до 23:59 27 сентября (XLVIII турнир, сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "до 4 октября 2026; ссылку на регистрацию организатор обещает разместить в ближайшее время",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://турлом.цпм.рф/"
  },
  {
   "n": 82,
   "name": "Турнир имени М.В. Ломоносова",
   "kind": "этап",
-  "stage": "Осенний турнир",
-  "when": "28 сентября, онлайн, с 7:00 МСК, 5 часов (XLVIII турнир, сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "stage": "Регистрация",
+  "when": "до 4 октября; ссылка на регистрацию будет размещена в ближайшее время",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
+  "organizer_url": "https://турлом.цпм.рф/"
+ },
+ {
+  "n": 82,
+  "name": "Турнир имени М.В. Ломоносова",
+  "kind": "этап",
+  "stage": "Осенний турнир (XLIX)",
+  "when": "4 октября 2026 (новость организатора 08.09.2026)",
+  "confirmed": "да",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://турлом.цпм.рф/"
  },
  {
@@ -3864,29 +4044,59 @@
   "name": "Турнир имени М.В. Ломоносова",
   "kind": "этап",
   "stage": "Весенний тур",
-  "when": "14 марта, для победителей и призёров прошлого весеннего или призёров осеннего тура (XLVIII турнир)",
+  "when": "регистрация начнётся позже (10–11 классы)",
   "confirmed": "нет",
-  "checked_on": "2026-09-02",
+  "checked_on": "2026-09-15",
   "organizer_url": "https://турлом.цпм.рф/"
+ },
+ {
+  "n": 83,
+  "name": "Университетская олимпиада школьников «Бельчонок»",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "отборочный этап открыт с 1 октября 2026 по 12 января 2027; участие — через личный кабинет участника олимпиад СФУ",
+  "confirmed": "да",
+  "checked_on": "2026-09-10",
+  "organizer_url": "https://dovuz.sfu.ru/abiturientu-sfu/olimpiady/belchonok/2026-2027-uchebnyy-god/"
  },
  {
   "n": 83,
   "name": "Университетская олимпиада школьников «Бельчонок»",
   "kind": "этап",
   "stage": "Первый, отборочный этап",
-  "when": "с 1 октября ежегодно, дистанционно, после регистрации в личном кабинете",
-  "confirmed": "нет",
-  "checked_on": "2026-09-03",
-  "organizer_url": "https://dovuz.sfu.ru/abiturientu-sfu/olimpiady/belchonok/"
+  "when": "1 октября 2026 — 12 января 2027, дистанционно; доступ к заданиям закрывается в 17:00 по красноярскому времени (GMT+7)",
+  "confirmed": "да",
+  "checked_on": "2026-09-10",
+  "organizer_url": "https://dovuz.sfu.ru/abiturientu-sfu/olimpiady/belchonok/2026-2027-uchebnyy-god/"
  },
  {
   "n": 83,
   "name": "Университетская олимпиада школьников «Бельчонок»",
   "kind": "этап",
-  "stage": "Второй, заключительный этап",
-  "when": "февраль — март, очно в Красноярске и на региональных площадках",
-  "confirmed": "нет",
-  "checked_on": "2026-09-03",
-  "organizer_url": "https://dovuz.sfu.ru/abiturientu-sfu/olimpiady/belchonok/"
+  "stage": "Результаты отборочного этапа",
+  "when": "18 января 2027",
+  "confirmed": "да",
+  "checked_on": "2026-09-10",
+  "organizer_url": "https://dovuz.sfu.ru/abiturientu-sfu/olimpiady/belchonok/2026-2027-uchebnyy-god/"
+ },
+ {
+  "n": 83,
+  "name": "Университетская олимпиада школьников «Бельчонок»",
+  "kind": "этап",
+  "stage": "Второй, заключительный этап — математика и физика",
+  "when": "7 февраля 2027, очно в Красноярске и на региональных площадках",
+  "confirmed": "да",
+  "checked_on": "2026-09-10",
+  "organizer_url": "https://dovuz.sfu.ru/abiturientu-sfu/olimpiady/belchonok/2026-2027-uchebnyy-god/"
+ },
+ {
+  "n": 83,
+  "name": "Университетская олимпиада школьников «Бельчонок»",
+  "kind": "этап",
+  "stage": "Второй, заключительный этап — информатика и химия",
+  "when": "14 февраля 2027, очно в Красноярске и на региональных площадках",
+  "confirmed": "да",
+  "checked_on": "2026-09-10",
+  "organizer_url": "https://dovuz.sfu.ru/abiturientu-sfu/olimpiady/belchonok/2026-2027-uchebnyy-god/"
  }
 ]
