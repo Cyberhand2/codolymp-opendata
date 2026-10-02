@@ -3,13 +3,13 @@
   "license": "CC BY 4.0",
   "repository": "https://github.com/Cyberhand2/codolymp-opendata",
   "attribution": "При использовании укажите источник: Кодолимп, https://codolymp.ru/otkrytye-dannye",
-  "built_on": "2026-09-28",
+  "built_on": "2026-10-02",
   "datasets": [
     {
       "id": "perechen",
       "title": "Перечень олимпиад школьников 2025-2026",
       "source": "приказ Минобрнауки России № 669 от 30 августа 2025 года",
-      "checked_on": "2026-09-22",
+      "checked_on": "2026-09-29",
       "rows": 303,
       "olympiads": 83,
       "files": [
@@ -31,7 +31,7 @@
       "id": "schedule",
       "title": "Календарь сезона 2026/27: регистрации и этапы",
       "source": "сайты организаторов, сверка построчно",
-      "rows": 470,
+      "rows": 474,
       "files": [
         "schedule.json",
         "schedule.csv"
