@@ -143,6 +143,83 @@
   "organizer_url": "https://ntcontest.ru/participants/schedule/"
  },
  {
+  "n": 5,
+  "order_n": 3,
+  "name": "Всероссийская междисциплинарная олимпиада школьников 8–11 классов «Национальная технологическая олимпиада»",
+  "kind": "этап",
+  "stage": "Регистрация старшего трека по химии",
+  "when": "26 августа — 22 октября 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://ntcontest.ru/participants/schedule/"
+ },
+ {
+  "n": 5,
+  "order_n": 3,
+  "name": "Всероссийская междисциплинарная олимпиада школьников 8–11 классов «Национальная технологическая олимпиада»",
+  "kind": "этап",
+  "stage": "Отборочный этап I старшего трека по химии",
+  "when": "17 сентября — 23 октября 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://ntcontest.ru/participants/schedule/"
+ },
+ {
+  "n": 5,
+  "order_n": 3,
+  "name": "Всероссийская междисциплинарная олимпиада школьников 8–11 классов «Национальная технологическая олимпиада»",
+  "kind": "этап",
+  "stage": "Отборочный этап II старшего трека по химии",
+  "when": "5 ноября — 7 декабря 2026 (ручная проверка), до 11 декабря (автоматическая)",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://ntcontest.ru/participants/schedule/"
+ },
+ {
+  "n": 5,
+  "order_n": 3,
+  "name": "Всероссийская междисциплинарная олимпиада школьников 8–11 классов «Национальная технологическая олимпиада»",
+  "kind": "этап",
+  "stage": "Финалы химических профилей старшего трека по химии",
+  "when": "февраль — апрель 2027; точные дни не названы",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://ntcontest.ru/participants/schedule/"
+ },
+ {
+  "n": 5,
+  "order_n": 3,
+  "name": "Всероссийская междисциплинарная олимпиада школьников 8–11 классов «Национальная технологическая олимпиада»",
+  "kind": "этап",
+  "stage": "Закрытие отборочного этапа I старшего трека, включая химию",
+  "when": "23 октября 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://ntcontest.ru/participants/schedule/"
+ },
+ {
+  "n": 5,
+  "order_n": 3,
+  "name": "Всероссийская междисциплинарная олимпиада школьников 8–11 классов «Национальная технологическая олимпиада»",
+  "kind": "этап",
+  "stage": "Закрытие этапа II с ручной проверкой, включая химию",
+  "when": "7 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://ntcontest.ru/participants/schedule/"
+ },
+ {
+  "n": 5,
+  "order_n": 3,
+  "name": "Всероссийская междисциплинарная олимпиада школьников 8–11 классов «Национальная технологическая олимпиада»",
+  "kind": "этап",
+  "stage": "Закрытие этапа II с автоматической проверкой, включая химию",
+  "when": "11 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://ntcontest.ru/participants/schedule/"
+ },
+ {
   "n": 6,
   "order_n": 4,
   "name": "Всероссийская олимпиада по агрогенетике «Иннагрика»",
@@ -440,6 +517,61 @@
   "organizer_url": "https://olymp.hse.ru/mmo/"
  },
  {
+  "n": 8,
+  "order_n": 6,
+  "name": "Всероссийская олимпиада школьников «Высшая проба»",
+  "kind": "этап",
+  "stage": "Первый тур отбора по химии",
+  "when": "26 сентября 2026: 8–10 классы 14:00 МСК, 11 класс 13:20 МСК; 40 минут",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olymp.hse.ru/mmo/timetable"
+ },
+ {
+  "n": 8,
+  "order_n": 6,
+  "name": "Всероссийская олимпиада школьников «Высшая проба»",
+  "kind": "этап",
+  "stage": "Общее окно второго тура, день химии ещё не назван по химии",
+  "when": "13–22 ноября 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olymp.hse.ru/mmo/timetable1"
+ },
+ {
+  "n": 8,
+  "order_n": 6,
+  "name": "Всероссийская олимпиада школьников «Высшая проба»",
+  "kind": "этап",
+  "stage": "Общее окно финала, день химии ещё не назван по химии",
+  "when": "5–15 февраля 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olymp.hse.ru/mmo/timetable2"
+ },
+ {
+  "n": 8,
+  "order_n": 6,
+  "name": "Всероссийская олимпиада школьников «Высшая проба»",
+  "kind": "этап",
+  "stage": "Конец общего окна второго тура, отдельный день химии ещё не назван",
+  "when": "22 ноября 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olymp.hse.ru/mmo/chemistry"
+ },
+ {
+  "n": 8,
+  "order_n": 6,
+  "name": "Всероссийская олимпиада школьников «Высшая проба»",
+  "kind": "этап",
+  "stage": "Конец общего окна финала, отдельный день химии ещё не назван",
+  "when": "15 февраля 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olymp.hse.ru/mmo/chemistry"
+ },
+ {
   "n": 9,
   "order_n": 7,
   "name": "Всероссийская олимпиада школьников «Миссия выполнима Твое призвание - финансист!»",
@@ -680,6 +812,83 @@
   "confirmed": "нет",
   "checked_on": "2026-10-05",
   "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
+ },
+ {
+  "n": 11,
+  "order_n": 9,
+  "name": "Всероссийская Сеченовская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Регистрация по химии",
+  "when": "1 октября 2026 00:01 — 29 октября 2026 23:59 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
+ },
+ {
+  "n": 11,
+  "order_n": 9,
+  "name": "Всероссийская Сеченовская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Отборочный этап по химии",
+  "when": "10 ноября 2026 00:01 — 30 ноября 2026 23:59 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
+ },
+ {
+  "n": 11,
+  "order_n": 9,
+  "name": "Всероссийская Сеченовская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Период заключительного этапа, день ещё не назван по химии",
+  "when": "1 февраля — 1 апреля 2027",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
+ },
+ {
+  "n": 11,
+  "order_n": 9,
+  "name": "Всероссийская Сеченовская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Закрытие отбора по химии, 23:59 МСК",
+  "when": "30 ноября 2026, 23:59 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://www.sechenov.ru/univers/structure/institute/institut-profilnogo-obucheniya-impuls/otdel-organizatsii-i-provedeniya-olimpiad-konferen/vserossiyskaya-sechenovskaya-olimpiada-shkolnikov/"
+ },
+ {
+  "n": 11,
+  "order_n": 9,
+  "name": "Всероссийская Сеченовская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Предварительные итоги отбора по химии",
+  "when": "8 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://www.sechenov.ru/upload/iblock/831/7ezgds9q0zbxd1o8ouv8wr268i81psl5/Reglament-VSOSH-khimiya-26_27.pdf"
+ },
+ {
+  "n": 11,
+  "order_n": 9,
+  "name": "Всероссийская Сеченовская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Рассмотрение апелляций отбора по химии",
+  "when": "11 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://www.sechenov.ru/upload/iblock/831/7ezgds9q0zbxd1o8ouv8wr268i81psl5/Reglament-VSOSH-khimiya-26_27.pdf"
+ },
+ {
+  "n": 11,
+  "order_n": 9,
+  "name": "Всероссийская Сеченовская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Окончательные итоги отбора по химии",
+  "when": "18 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://www.sechenov.ru/upload/iblock/831/7ezgds9q0zbxd1o8ouv8wr268i81psl5/Reglament-VSOSH-khimiya-26_27.pdf"
  },
  {
   "n": 12,
@@ -946,6 +1155,94 @@
   "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
  },
  {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Регистрация на отбор по химии",
+  "when": "26 октября — 20 ноября 2026, до 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Отборочный этап по химии",
+  "when": "22 ноября 2026, 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Окончательные итоги отбора по химии",
+  "when": "25 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Регистрация на финал по химии",
+  "when": "1–26 февраля 2027, до 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Заключительный этап по химии",
+  "when": "28 февраля 2027, 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Финальные итоги по химии",
+  "when": "28 марта 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Закрытие записи на отбор по химии",
+  "when": "20 ноября 2026, 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Закрытие записи на финал по химии",
+  "when": "26 февраля 2027, 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
+ },
+ {
   "n": 16,
   "order_n": 12,
   "name": "Герценовская олимпиада школьников",
@@ -999,6 +1296,28 @@
   "confirmed": "нет",
   "checked_on": "2026-10-06",
   "organizer_url": "https://www.herzen.spb.ru/abiturients/olimpiady/olimp-rsosh/"
+ },
+ {
+  "n": 16,
+  "order_n": 12,
+  "name": "Герценовская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Предварительный отбор педагогического профиля, включая химию по химии",
+  "when": "октябрь 2026 — январь 2027",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://herzen.spb.ru/abiturients/olimpiady/olimp-rsosh/pedagogy/"
+ },
+ {
+  "n": 16,
+  "order_n": 12,
+  "name": "Герценовская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Предварительный финал педагогического профиля, включая химию по химии",
+  "when": "февраль 2027",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://herzen.spb.ru/abiturients/olimpiady/olimp-rsosh/pedagogy/"
  },
  {
   "n": 18,
@@ -1430,6 +1749,83 @@
   "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
  },
  {
+  "n": 26,
+  "order_n": 19,
+  "name": "Международная олимпиада школьников Уральского федерального университета «Изумруд»",
+  "kind": "этап",
+  "stage": "Общая регистрация и отбор по химии",
+  "when": "1 сентября 2026 — 19 января 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
+ },
+ {
+  "n": 26,
+  "order_n": 19,
+  "name": "Международная олимпиада школьников Уральского федерального университета «Изумруд»",
+  "kind": "этап",
+  "stage": "Выбор города и документы для финала по химии",
+  "when": "20–24 января 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
+ },
+ {
+  "n": 26,
+  "order_n": 19,
+  "name": "Международная олимпиада школьников Уральского федерального университета «Изумруд»",
+  "kind": "этап",
+  "stage": "Общее окно финала по химии, отдельный день ещё не назван",
+  "when": "30 января — 2 февраля 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
+ },
+ {
+  "n": 26,
+  "order_n": 19,
+  "name": "Международная олимпиада школьников Уральского федерального университета «Изумруд»",
+  "kind": "этап",
+  "stage": "Проверенная работа и апелляция по химии",
+  "when": "20 марта 2027, 12:00 по времени Екатеринбурга",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
+ },
+ {
+  "n": 26,
+  "order_n": 19,
+  "name": "Международная олимпиада школьников Уральского федерального университета «Изумруд»",
+  "kind": "этап",
+  "stage": "Итоги по химии",
+  "when": "27 марта 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
+ },
+ {
+  "n": 26,
+  "order_n": 19,
+  "name": "Международная олимпиада школьников Уральского федерального университета «Изумруд»",
+  "kind": "этап",
+  "stage": "Завершение выбора города и подачи документов на финал, включая химию",
+  "when": "24 января 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
+ },
+ {
+  "n": 26,
+  "order_n": 19,
+  "name": "Международная олимпиада школьников Уральского федерального университета «Изумруд»",
+  "kind": "этап",
+  "stage": "Конец общего окна финала, отдельный день химии ещё не назван",
+  "when": "2 февраля 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://dovuz.urfu.ru/olymps/izumrud"
+ },
+ {
   "n": 29,
   "order_n": 20,
   "name": "Межрегиональная олимпиада школьников «Будущие исследователи - будущее науки»",
@@ -1500,11 +1896,99 @@
   "order_n": 20,
   "name": "Межрегиональная олимпиада школьников «Будущие исследователи - будущее науки»",
   "kind": "этап",
-  "stage": "Очный отбор в Нижнем Новгороде и области: химия",
-  "when": "12–13 декабря 2026",
+  "stage": "Очный отбор по химии только для иностранных школьников на зарубежных площадках",
+  "when": "7 октября 2026; часы уточняет площадка, дистанционного формата нет",
   "confirmed": "да",
-  "checked_on": "2026-10-05",
-  "organizer_url": "https://bibn.unn.ru/"
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://bibn.unn.ru/calendar/foreign"
+ },
+ {
+  "n": 29,
+  "order_n": 20,
+  "name": "Межрегиональная олимпиада школьников «Будущие исследователи - будущее науки»",
+  "kind": "этап",
+  "stage": "Отбор по химии в Нижнем Новгороде, Белгороде, Екатеринбурге, Барнауле и Томске",
+  "when": "12–13 декабря 2026; местная площадка уточняет день",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://bibn.unn.ru/news/02-10-2026"
+ },
+ {
+  "n": 29,
+  "order_n": 20,
+  "name": "Межрегиональная олимпиада школьников «Будущие исследователи - будущее науки»",
+  "kind": "этап",
+  "stage": "Отбор по химии в Симферополе и Казани",
+  "when": "12 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://bibn.unn.ru/calendar/simferopol"
+ },
+ {
+  "n": 29,
+  "order_n": 20,
+  "name": "Межрегиональная олимпиада школьников «Будущие исследователи - будущее науки»",
+  "kind": "этап",
+  "stage": "Отбор по химии в Красноярске и Калининграде",
+  "when": "13 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://bibn.unn.ru/calendar/krasnoyarsk"
+ },
+ {
+  "n": 29,
+  "order_n": 20,
+  "name": "Межрегиональная олимпиада школьников «Будущие исследователи - будущее науки»",
+  "kind": "этап",
+  "stage": "Отбор по химии в Нижнем Новгороде, воскресная площадка",
+  "when": "13 декабря 2026, сбор 09:00, начало 10:00 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://bibn.unn.ru/news/02-10-2026"
+ },
+ {
+  "n": 29,
+  "order_n": 20,
+  "name": "Межрегиональная олимпиада школьников «Будущие исследователи - будущее науки»",
+  "kind": "этап",
+  "stage": "Исследовательский конкурс по химии в Сарове: выдача заданий",
+  "when": "9 октября 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://bibn.unn.ru/calendar/sarov"
+ },
+ {
+  "n": 29,
+  "order_n": 20,
+  "name": "Межрегиональная олимпиада школьников «Будущие исследователи - будущее науки»",
+  "kind": "этап",
+  "stage": "Исследовательский конкурс по химии в Сарове: закрытие подачи",
+  "when": "4 ноября 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://bibn.unn.ru/calendar/sarov"
+ },
+ {
+  "n": 29,
+  "order_n": 20,
+  "name": "Межрегиональная олимпиада школьников «Будущие исследователи - будущее науки»",
+  "kind": "этап",
+  "stage": "Заочная химия в Пензе: выдача заданий",
+  "when": "16 ноября 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://bibn.unn.ru/calendar/penza"
+ },
+ {
+  "n": 29,
+  "order_n": 20,
+  "name": "Межрегиональная олимпиада школьников «Будущие исследователи - будущее науки»",
+  "kind": "этап",
+  "stage": "Заочная химия в Пензе: закрытие подачи",
+  "when": "1 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://bibn.unn.ru/calendar/penza"
  },
  {
   "n": 31,
@@ -1672,48 +2156,48 @@
   "organizer_url": "https://malun.kpfu.ru/mpo"
  },
  {
-  "n": 35,
-  "order_n": 24,
-  "name": "Многопредметная олимпиада «Юные таланты»",
+  "n": 34,
+  "order_n": 23,
+  "name": "Межрегиональные предметные олимпиады федерального государственного автономного образовательного учреждения высшего образования «Казанский (Приволжский) федеральный университет»",
   "kind": "этап",
-  "stage": "Химия: заочный этап, тренировочный тур",
-  "when": "15 октября — 2 декабря 2025 (XIX олимпиада, 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "",
-  "organizer_url": "http://olymp.psu.ru/"
+  "stage": "Отборочный этап, общее окно по химии",
+  "when": "26 октября — 23 ноября 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://malun.kpfu.ru/mpo"
  },
  {
-  "n": 35,
-  "order_n": 24,
-  "name": "Многопредметная олимпиада «Юные таланты»",
+  "n": 34,
+  "order_n": 23,
+  "name": "Межрегиональные предметные олимпиады федерального государственного автономного образовательного учреждения высшего образования «Казанский (Приволжский) федеральный университет»",
   "kind": "этап",
-  "stage": "Химия: заочный этап, интернет-тур",
-  "when": "3–15 декабря 2025 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "",
-  "organizer_url": "http://olymp.psu.ru/"
+  "stage": "Заключительный этап, общее окно без дня химии по химии",
+  "when": "13 января — 7 февраля 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://malun.kpfu.ru/mpo"
  },
  {
-  "n": 35,
-  "order_n": 24,
-  "name": "Многопредметная олимпиада «Юные таланты»",
+  "n": 34,
+  "order_n": 23,
+  "name": "Межрегиональные предметные олимпиады федерального государственного автономного образовательного учреждения высшего образования «Казанский (Приволжский) федеральный университет»",
   "kind": "этап",
-  "stage": "Химия: заключительный этап, отборочный тур",
-  "when": "31 января 2026 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "",
-  "organizer_url": "http://olymp.psu.ru/"
+  "stage": "Закрытие общего отбора, включая химию",
+  "when": "23 ноября 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://malun.kpfu.ru/mpo"
  },
  {
-  "n": 35,
-  "order_n": 24,
-  "name": "Многопредметная олимпиада «Юные таланты»",
+  "n": 34,
+  "order_n": 23,
+  "name": "Межрегиональные предметные олимпиады федерального государственного автономного образовательного учреждения высшего образования «Казанский (Приволжский) федеральный университет»",
   "kind": "этап",
-  "stage": "Химия: заключительный этап, финальные туры",
-  "when": "8–9 апреля 2026 (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "",
-  "organizer_url": "http://olymp.psu.ru/"
+  "stage": "Конец общего окна финалов, отдельный день химии ещё не назван",
+  "when": "7 февраля 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://malun.kpfu.ru/mpo"
  },
  {
   "n": 35,
@@ -1758,6 +2242,83 @@
   "confirmed": "нет",
   "checked_on": "",
   "organizer_url": "http://olymp.psu.ru/"
+ },
+ {
+  "n": 35,
+  "order_n": 24,
+  "name": "Многопредметная олимпиада «Юные таланты»",
+  "kind": "этап",
+  "stage": "Тренировочный тур I этапа, предварительно по химии",
+  "when": "1–9 ноября 2026",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://chemolymp.narod.ru/"
+ },
+ {
+  "n": 35,
+  "order_n": 24,
+  "name": "Многопредметная олимпиада «Юные таланты»",
+  "kind": "этап",
+  "stage": "Интернет-тур I этапа, предварительно по химии",
+  "when": "10–13 ноября 2026",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://chemolymp.narod.ru/"
+ },
+ {
+  "n": 35,
+  "order_n": 24,
+  "name": "Многопредметная олимпиада «Юные таланты»",
+  "kind": "этап",
+  "stage": "Отборочный тур II этапа, предварительно по химии",
+  "when": "19 декабря 2026",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://chemolymp.narod.ru/"
+ },
+ {
+  "n": 35,
+  "order_n": 24,
+  "name": "Многопредметная олимпиада «Юные таланты»",
+  "kind": "этап",
+  "stage": "Финальные туры II этапа, предварительно по химии",
+  "when": "3–5 марта 2027",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://chemolymp.narod.ru/"
+ },
+ {
+  "n": 35,
+  "order_n": 24,
+  "name": "Многопредметная олимпиада «Юные таланты»",
+  "kind": "этап",
+  "stage": "Предварительное завершение тренировочного тура по химии",
+  "when": "9 ноября 2026",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://chemolymp.narod.ru/"
+ },
+ {
+  "n": 35,
+  "order_n": 24,
+  "name": "Многопредметная олимпиада «Юные таланты»",
+  "kind": "этап",
+  "stage": "Предварительное закрытие интернет-тура по химии",
+  "when": "13 ноября 2026",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://chemolymp.narod.ru/"
+ },
+ {
+  "n": 35,
+  "order_n": 24,
+  "name": "Многопредметная олимпиада «Юные таланты»",
+  "kind": "этап",
+  "stage": "Предварительный конец финальных туров по химии",
+  "when": "5 марта 2027",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://chemolymp.narod.ru/"
  },
  {
   "n": 36,
@@ -1813,6 +2374,61 @@
   "confirmed": "нет",
   "checked_on": "2026-10-04",
   "organizer_url": "https://zv.susu.ru/"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Очный отбор профиля «Химические технологии»",
+  "when": "9 ноября — 20 декабря 2026; 7–11 классы, СПО 1–2 курс",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Интернет-отбор профиля «Химические технологии»",
+  "when": "9 ноября — 9 декабря 2026; 7–11 классы, СПО 1–2 курс",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Финал профиля «Химические технологии», классы расходятся с отбором",
+  "when": "14 марта 2027; сбор 09:00–09:45, работа 10:00–13:55 по местному времени площадки; в графике финала 6–11 классы",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Закрытие очного отбора профиля «Химические технологии»",
+  "when": "20 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Закрытие интернет-отбора профиля «Химические технологии»",
+  "when": "9 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
  },
  {
   "n": 37,
@@ -2011,6 +2627,50 @@
   "confirmed": "нет",
   "checked_on": "2026-10-06",
   "organizer_url": "https://мош.цпм.рф/"
+ },
+ {
+  "n": 37,
+  "order_n": 26,
+  "name": "Московская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Отборочный этап, предварительно по химии",
+  "when": "26 ноября — 16 декабря 2026",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://мош.цпм.рф/olymp/chem"
+ },
+ {
+  "n": 37,
+  "order_n": 26,
+  "name": "Московская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Теоретический тур финала, предварительно по химии",
+  "when": "14 февраля 2027",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://мош.цпм.рф/olymp/chem"
+ },
+ {
+  "n": 37,
+  "order_n": 26,
+  "name": "Московская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Практический тур финала, предварительно по химии",
+  "when": "14 марта 2027",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://мош.цпм.рф/olymp/chem"
+ },
+ {
+  "n": 37,
+  "order_n": 26,
+  "name": "Московская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Предварительное закрытие отбора по химии",
+  "when": "16 декабря 2026",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://мош.цпм.рф/olymp/chem"
  },
  {
   "n": 38,
@@ -2739,6 +3399,28 @@
   "organizer_url": "https://olymp.msu.ru/"
  },
  {
+  "n": 50,
+  "order_n": 35,
+  "name": "Олимпиада школьников «Ломоносов»",
+  "kind": "этап",
+  "stage": "Общее окно отбора, без отдельных дней химии по химии",
+  "when": "октябрь — декабрь 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olymp.msu.ru/"
+ },
+ {
+  "n": 50,
+  "order_n": 35,
+  "name": "Олимпиада школьников «Ломоносов»",
+  "kind": "этап",
+  "stage": "Общее окно финала, без отдельных дней химии по химии",
+  "when": "февраль — апрель 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olymp.msu.ru/"
+ },
+ {
   "n": 51,
   "order_n": 36,
   "name": "Олимпиада школьников «Надежда энергетики»",
@@ -3102,6 +3784,39 @@
   "organizer_url": "https://olymp-online.mipt.ru/"
  },
  {
+  "n": 54,
+  "order_n": 38,
+  "name": "Олимпиада школьников «Физтех»",
+  "kind": "этап",
+  "stage": "Онлайн-отбор по химии",
+  "when": "15 декабря 2026 — 10 января 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://chem-olymp.mipt.ru/"
+ },
+ {
+  "n": 54,
+  "order_n": 38,
+  "name": "Олимпиада школьников «Физтех»",
+  "kind": "этап",
+  "stage": "Очный финал по химии",
+  "when": "21 февраля 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://chem-olymp.mipt.ru/"
+ },
+ {
+  "n": 54,
+  "order_n": 38,
+  "name": "Олимпиада школьников «Физтех»",
+  "kind": "этап",
+  "stage": "Закрытие онлайн-отбора по химии",
+  "when": "10 января 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://chem-olymp.mipt.ru/"
+ },
+ {
   "n": 55,
   "order_n": 39,
   "name": "Олимпиада школьников «Шаг в будущее»",
@@ -3150,30 +3865,8 @@
   "order_n": 39,
   "name": "Олимпиада школьников «Шаг в будущее»",
   "kind": "этап",
-  "stage": "Отборочный этап по химии, 1 волна",
-  "when": "8 ноября 2026",
-  "confirmed": "да",
-  "checked_on": "2026-10-02",
-  "organizer_url": "https://olymp.bmstu.ru/ru"
- },
- {
-  "n": 55,
-  "order_n": 39,
-  "name": "Олимпиада школьников «Шаг в будущее»",
-  "kind": "этап",
   "stage": "Отборочный этап по математике",
   "when": "16–22 ноября 2026; запись на профиль откроется позже, формат новый",
-  "confirmed": "да",
-  "checked_on": "2026-10-02",
-  "organizer_url": "https://olymp.bmstu.ru/ru"
- },
- {
-  "n": 55,
-  "order_n": 39,
-  "name": "Олимпиада школьников «Шаг в будущее»",
-  "kind": "этап",
-  "stage": "Отборочный этап по химии, 2 волна",
-  "when": "29 ноября 2026",
   "confirmed": "да",
   "checked_on": "2026-10-02",
   "organizer_url": "https://olymp.bmstu.ru/ru"
@@ -3199,6 +3892,28 @@
   "confirmed": "да",
   "checked_on": "2026-10-02",
   "organizer_url": "https://olymp.bmstu.ru/ru"
+ },
+ {
+  "n": 55,
+  "order_n": 39,
+  "name": "Олимпиада школьников «Шаг в будущее»",
+  "kind": "этап",
+  "stage": "Первое отборочное соревнование по химии",
+  "when": "8 ноября 2026, 150 минут",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olymp.bmstu.ru/ru/khimiya"
+ },
+ {
+  "n": 55,
+  "order_n": 39,
+  "name": "Олимпиада школьников «Шаг в будущее»",
+  "kind": "этап",
+  "stage": "Второе отборочное соревнование по химии",
+  "when": "29 ноября 2026, 150 минут",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olymp.bmstu.ru/ru/khimiya"
  },
  {
   "n": 56,
@@ -3586,6 +4301,171 @@
   "organizer_url": "https://olympiada.spbu.ru/"
  },
  {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Общая регистрация по химии",
+  "when": "10 октября — 1 декабря 2026, до 16:00 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Общее окно отбора по химии",
+  "when": "20 октября — 1 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Результаты отбора по химии",
+  "when": "25 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Начало записи на финал по химии",
+  "when": "30 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Общее окно финалов, без дня химии по химии",
+  "when": "январь — 9 марта 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Закрытие апелляций, общий срок включая химию",
+  "when": "28 марта 2027, 14:00 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Закрытие общей регистрации, включая химию, 16:00 МСК",
+  "when": "1 декабря 2026, 16:00 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Закрытие общего отбора, включая химию; точный час не назван",
+  "when": "1 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Предварительные итоги финала, общий срок включая химию",
+  "when": "22 марта 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Запрос показа работ, общий срок включая химию",
+  "when": "23 марта 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Начало показа работ, общий срок включая химию",
+  "when": "26 марта 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Завершение показа работ, общий срок включая химию",
+  "when": "27 марта 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Начало рассмотрения апелляций, общий срок включая химию",
+  "when": "29 марта 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Завершение рассмотрения апелляций, общий срок включая химию",
+  "when": "1 апреля 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
+  "n": 59,
+  "order_n": 43,
+  "name": "Олимпиада школьников Санкт-Петербургского государственного университета",
+  "kind": "этап",
+  "stage": "Окончательные итоги, общий срок включая химию",
+  "when": "5 апреля 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olympiada.spbu.ru/"
+ },
+ {
   "n": 60,
   "order_n": 44,
   "name": "Олимпиада школьников федерального государственного бюджетного образовательного учреждения высшего образования «Всероссийский государственный университет юстиции (РПА Минюста России)» «В мир права»",
@@ -3759,6 +4639,39 @@
   "when": "25 января — 15 марта 2027; день внутри окна организатор пока не назвал",
   "confirmed": "да",
   "checked_on": "2026-10-02",
+  "organizer_url": "https://olymp-sibir.nstu.ru/"
+ },
+ {
+  "n": 62,
+  "order_n": 46,
+  "name": "Открытая межвузовская олимпиада школьников «Будущее Сибири»",
+  "kind": "этап",
+  "stage": "Закрытие общей регистрации по химии",
+  "when": "1 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olymp-sibir.nstu.ru/"
+ },
+ {
+  "n": 62,
+  "order_n": 46,
+  "name": "Открытая межвузовская олимпиада школьников «Будущее Сибири»",
+  "kind": "этап",
+  "stage": "Отборочный этап по химии",
+  "when": "13 декабря 2026, 120 минут",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olymp-sibir.nstu.ru/"
+ },
+ {
+  "n": 62,
+  "order_n": 46,
+  "name": "Открытая межвузовская олимпиада школьников «Будущее Сибири»",
+  "kind": "этап",
+  "stage": "Заключительный этап по химии",
+  "when": "28 февраля 2027, не более 235 минут",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
   "organizer_url": "https://olymp-sibir.nstu.ru/"
  },
  {
@@ -3997,17 +4910,6 @@
   "order_n": 49,
   "name": "Открытая региональная межвузовская олимпиада школьников (ОРМО) с международным участием",
   "kind": "этап",
-  "stage": "Заключительный этап, химия",
-  "when": "27 февраля 2027, 10:00",
-  "confirmed": "да",
-  "checked_on": "2026-10-02",
-  "organizer_url": "https://info.abiturient.tsu.ru/ru/content/date-ORMO"
- },
- {
-  "n": 67,
-  "order_n": 49,
-  "name": "Открытая региональная межвузовская олимпиада школьников (ОРМО) с международным участием",
-  "kind": "этап",
   "stage": "Заключительный этап, история",
   "when": "27 февраля 2027, 10:00",
   "confirmed": "да",
@@ -4070,6 +4972,61 @@
   "organizer_url": "https://info.abiturient.tsu.ru/ru/content/date-ORMO"
  },
  {
+  "n": 67,
+  "order_n": 49,
+  "name": "Открытая региональная межвузовская олимпиада школьников (ОРМО) с международным участием",
+  "kind": "этап",
+  "stage": "Дистанционная регистрация и отбор по химии",
+  "when": "1 октября 2026 — 10 января 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://info.abiturient.tsu.ru/ru/content/date-ORMO"
+ },
+ {
+  "n": 67,
+  "order_n": 49,
+  "name": "Открытая региональная межвузовская олимпиада школьников (ОРМО) с международным участием",
+  "kind": "этап",
+  "stage": "Общее окно очного отбора, отдельный день химии ещё не назван по химии",
+  "when": "13–22 ноября 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://info.abiturient.tsu.ru/ru/content/date-ORMO"
+ },
+ {
+  "n": 67,
+  "order_n": 49,
+  "name": "Открытая региональная межвузовская олимпиада школьников (ОРМО) с международным участием",
+  "kind": "этап",
+  "stage": "Заключительный этап в Томске по химии",
+  "when": "27 февраля 2027, 10:00 по времени Томска; другие площадки уточняют местные часы",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://info.abiturient.tsu.ru/ru/content/date-ORMO"
+ },
+ {
+  "n": 67,
+  "order_n": 49,
+  "name": "Открытая региональная межвузовская олимпиада школьников (ОРМО) с международным участием",
+  "kind": "этап",
+  "stage": "Закрытие дистанционной записи и отбора по химии",
+  "when": "10 января 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://info.abiturient.tsu.ru/ru/content/date-ORMO"
+ },
+ {
+  "n": 67,
+  "order_n": 49,
+  "name": "Открытая региональная межвузовская олимпиада школьников (ОРМО) с международным участием",
+  "kind": "этап",
+  "stage": "Конец общего окна очного отбора, отдельный день химии ещё не назван",
+  "when": "22 ноября 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://info.abiturient.tsu.ru/ru/content/date-ORMO"
+ },
+ {
   "n": 68,
   "order_n": 50,
   "name": "Открытая химическая олимпиада",
@@ -4085,8 +5042,8 @@
   "order_n": 50,
   "name": "Открытая химическая олимпиада",
   "kind": "этап",
-  "stage": "Отборочный этап, онлайн",
-  "when": "22 октября 2026 — 22 января 2027",
+  "stage": "Дистанционный отбор по химии",
+  "when": "22 октября 2026, открытие заданий в 10:00, — 22 января 2027; часовой пояс не указан",
   "confirmed": "да",
   "checked_on": "2026-10-06",
   "organizer_url": "https://misis.ru/applicants/school-leavers/competitions/oho/"
@@ -4096,20 +5053,9 @@
   "order_n": 50,
   "name": "Открытая химическая олимпиада",
   "kind": "этап",
-  "stage": "Заключительный этап, очно",
-  "when": "Дата уточняется; график сезона 2026/27 ещё не опубликован",
-  "confirmed": "нет",
-  "checked_on": "2026-10-06",
-  "organizer_url": "https://misis.ru/applicants/school-leavers/competitions/oho/"
- },
- {
-  "n": 68,
-  "order_n": 50,
-  "name": "Открытая химическая олимпиада",
-  "kind": "этап",
-  "stage": "Результаты и апелляция",
-  "when": "Сроки сезона 2026/27 ещё не объявлены",
-  "confirmed": "нет",
+  "stage": "Закрытие дистанционного отбора по химии; часы ещё не названы",
+  "when": "22 января 2027",
+  "confirmed": "да",
   "checked_on": "2026-10-06",
   "organizer_url": "https://misis.ru/applicants/school-leavers/competitions/oho/"
  },
@@ -4400,6 +5346,28 @@
   "organizer_url": "https://www.pdmi.ras.ru/~olymp/"
  },
  {
+  "n": 75,
+  "order_n": 55,
+  "name": "Санкт-Петербургская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Рамки отбора по регламенту, дни сезона ещё не объявлены по химии",
+  "when": "ноябрь — декабрь 2026; точные дни сезона ещё не объявлены",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olymp.academtalant.ru/chemspb"
+ },
+ {
+  "n": 75,
+  "order_n": 55,
+  "name": "Санкт-Петербургская олимпиада школьников",
+  "kind": "этап",
+  "stage": "Рамки финала по регламенту, дни сезона ещё не объявлены по химии",
+  "when": "февраль — март 2027; точные дни сезона ещё не объявлены",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://olymp.academtalant.ru/chemspb"
+ },
+ {
   "n": 80,
   "order_n": 57,
   "name": "Телевизионная гуманитарная олимпиада школьников «Умницы и умники»",
@@ -4598,6 +5566,17 @@
   "organizer_url": "https://турлом.цпм.рф/"
  },
  {
+  "n": 82,
+  "order_n": 59,
+  "name": "Турнир имени М.В. Ломоносова",
+  "kind": "этап",
+  "stage": "Весенний тур, план организатора по химии",
+  "when": "13 марта 2027; регистрация позднее",
+  "confirmed": "нет",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://турлом.цпм.рф/"
+ },
+ {
   "n": 83,
   "order_n": 60,
   "name": "Университетская олимпиада школьников «Бельчонок»",
@@ -4650,6 +5629,39 @@
   "when": "14 февраля 2027, очно в Красноярске и на региональных площадках",
   "confirmed": "да",
   "checked_on": "2026-10-02",
+  "organizer_url": "https://dovuz.sfu.ru/abiturientu-sfu/olimpiady/belchonok/2026-2027-uchebnyy-god/"
+ },
+ {
+  "n": 83,
+  "order_n": 60,
+  "name": "Университетская олимпиада школьников «Бельчонок»",
+  "kind": "этап",
+  "stage": "Дистанционный отбор по химии",
+  "when": "1 октября 2026 — 12 января 2027, до 17:00 по красноярскому времени (GMT+7)",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://dovuz.sfu.ru/abiturientu-sfu/olimpiady/belchonok/2026-2027-uchebnyy-god/"
+ },
+ {
+  "n": 83,
+  "order_n": 60,
+  "name": "Университетская олимпиада школьников «Бельчонок»",
+  "kind": "этап",
+  "stage": "Результаты отбора по химии",
+  "when": "18 января 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
+  "organizer_url": "https://dovuz.sfu.ru/abiturientu-sfu/olimpiady/belchonok/2026-2027-uchebnyy-god/"
+ },
+ {
+  "n": 83,
+  "order_n": 60,
+  "name": "Университетская олимпиада школьников «Бельчонок»",
+  "kind": "этап",
+  "stage": "Заключительный этап по химии",
+  "when": "14 февраля 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-06",
   "organizer_url": "https://dovuz.sfu.ru/abiturientu-sfu/olimpiady/belchonok/2026-2027-uchebnyy-god/"
  }
 ]
