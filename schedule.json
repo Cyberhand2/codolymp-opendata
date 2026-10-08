@@ -961,138 +961,6 @@
   "order_n": 11,
   "name": "Всесибирская открытая олимпиада школьников",
   "kind": "этап",
-  "stage": "Регистрация на отборочный этап",
-  "when": "28 сентября — 16 октября 2026, 11:00 по новосибирскому времени",
-  "confirmed": "да",
-  "checked_on": "2026-10-06",
-  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
- },
- {
-  "n": 14,
-  "order_n": 11,
-  "name": "Всесибирская открытая олимпиада школьников",
-  "kind": "этап",
-  "stage": "Отборочный этап по математике",
-  "when": "18 октября 2026, 11:00 по новосибирскому времени",
-  "confirmed": "да",
-  "checked_on": "2026-10-06",
-  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
- },
- {
-  "n": 14,
-  "order_n": 11,
-  "name": "Всесибирская открытая олимпиада школьников",
-  "kind": "этап",
-  "stage": "Регистрация на заключительный этап",
-  "when": "1–12 февраля 2027, 11:00 по новосибирскому времени",
-  "confirmed": "да",
-  "checked_on": "2026-10-06",
-  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
- },
- {
-  "n": 14,
-  "order_n": 11,
-  "name": "Всесибирская открытая олимпиада школьников",
-  "kind": "этап",
-  "stage": "Заключительный этап по математике",
-  "when": "14 февраля 2027, 11:00 по новосибирскому времени",
-  "confirmed": "да",
-  "checked_on": "2026-10-06",
-  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
- },
- {
-  "n": 14,
-  "order_n": 11,
-  "name": "Всесибирская открытая олимпиада школьников",
-  "kind": "этап",
-  "stage": "Регистрация на отборочный этап по физике",
-  "when": "26 октября — 13 ноября 2026, 11:00 по новосибирскому времени; закрывается за 48 часов до этапа",
-  "confirmed": "да",
-  "checked_on": "2026-10-06",
-  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
- },
- {
-  "n": 14,
-  "order_n": 11,
-  "name": "Всесибирская открытая олимпиада школьников",
-  "kind": "этап",
-  "stage": "Отборочный этап по физике",
-  "when": "15 ноября 2026, 11:00 по новосибирскому времени",
-  "confirmed": "да",
-  "checked_on": "2026-10-06",
-  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
- },
- {
-  "n": 14,
-  "order_n": 11,
-  "name": "Всесибирская открытая олимпиада школьников",
-  "kind": "этап",
-  "stage": "Заключительный этап по физике",
-  "when": "14 марта 2027, 11:00 по новосибирскому времени",
-  "confirmed": "да",
-  "checked_on": "2026-10-06",
-  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
- },
- {
-  "n": 14,
-  "order_n": 11,
-  "name": "Всесибирская открытая олимпиада школьников",
-  "kind": "этап",
-  "stage": "Регистрация на отборочный этап по биологии",
-  "when": "12–30 октября 2026, 11:00 по новосибирскому времени",
-  "confirmed": "да",
-  "checked_on": "2026-10-06",
-  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
- },
- {
-  "n": 14,
-  "order_n": 11,
-  "name": "Всесибирская открытая олимпиада школьников",
-  "kind": "этап",
-  "stage": "Отборочный этап по биологии",
-  "when": "1 ноября 2026, 11:00 по новосибирскому времени",
-  "confirmed": "да",
-  "checked_on": "2026-10-06",
-  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
- },
- {
-  "n": 14,
-  "order_n": 11,
-  "name": "Всесибирская открытая олимпиада школьников",
-  "kind": "этап",
-  "stage": "Итоги отборочного этапа по биологии",
-  "when": "20 декабря",
-  "confirmed": "да",
-  "checked_on": "2026-10-06",
-  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
- },
- {
-  "n": 14,
-  "order_n": 11,
-  "name": "Всесибирская открытая олимпиада школьников",
-  "kind": "этап",
-  "stage": "Заключительный этап по биологии",
-  "when": "7 марта 2027, 11:00 по Новосибирску — текст профиля и предварительная общая таблица; лента на странице профиля называет 6 марта 2027; источники расходятся",
-  "confirmed": "нет",
-  "checked_on": "2026-10-06",
-  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
- },
- {
-  "n": 14,
-  "order_n": 11,
-  "name": "Всесибирская открытая олимпиада школьников",
-  "kind": "этап",
-  "stage": "Итоговые результаты по биологии",
-  "when": "4 апреля",
-  "confirmed": "да",
-  "checked_on": "2026-10-06",
-  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
- },
- {
-  "n": 14,
-  "order_n": 11,
-  "name": "Всесибирская открытая олимпиада школьников",
-  "kind": "этап",
   "stage": "Регистрация на отборочный этап по информатике",
   "when": "19 октября — 6 ноября 2026, 11:00 по новосибирскому времени",
   "confirmed": "да",
@@ -1158,12 +1026,144 @@
   "n": 14,
   "order_n": 11,
   "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "12-30 октября 2026, 11:00 по Новосибирску",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Регистрация на отборочный этап по биологии",
+  "when": "12–30 октября 2026, 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Отборочный этап по биологии",
+  "when": "1 ноября 2026, 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Итоги отборочного этапа по биологии",
+  "when": "20 декабря",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Заключительный этап по биологии",
+  "when": "7 марта 2027, 11:00 по Новосибирску — текст профиля и предварительная общая таблица; лента на странице профиля называет 6 марта 2027; источники расходятся",
+  "confirmed": "нет",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Итоговые результаты по биологии",
+  "when": "4 апреля",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
   "kind": "этап",
   "stage": "Регистрация на заключительный этап по биологии",
   "when": "1 февраля — 5 марта 2027, 11:00 по новосибирскому времени",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/biology/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "26 октября - 13 ноября 2026, 11:00 по Новосибирску",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/physics/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Регистрация на отборочный этап по физике",
+  "when": "26 октября — 13 ноября 2026, 11:00 по новосибирскому времени; закрывается за 48 часов до этапа",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/physics/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Отборочный этап по физике",
+  "when": "15 ноября 2026, 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/physics/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Регистрация на заключительный этап по физике",
+  "when": "1 февраля - 12 марта 2027, 11:00 по Новосибирску; для прошедших отбор",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/physics/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Заключительный этап по физике",
+  "when": "14 марта 2027, 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/physics/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "26 октября - 20 ноября 2026, 11:00 по Новосибирску",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
  },
  {
   "n": 14,
@@ -1173,7 +1173,7 @@
   "stage": "Регистрация на отбор по химии",
   "when": "26 октября — 20 ноября 2026, до 11:00 по новосибирскому времени",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
  },
  {
@@ -1184,7 +1184,7 @@
   "stage": "Отборочный этап по химии",
   "when": "22 ноября 2026, 11:00 по новосибирскому времени",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
  },
  {
@@ -1195,7 +1195,7 @@
   "stage": "Окончательные итоги отбора по химии",
   "when": "25 декабря 2026",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
  },
  {
@@ -1206,7 +1206,7 @@
   "stage": "Регистрация на финал по химии",
   "when": "1–26 февраля 2027, до 11:00 по новосибирскому времени",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
  },
  {
@@ -1217,7 +1217,7 @@
   "stage": "Заключительный этап по химии",
   "when": "28 февраля 2027, 11:00 по новосибирскому времени",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
  },
  {
@@ -1228,7 +1228,7 @@
   "stage": "Финальные итоги по химии",
   "when": "28 марта 2027",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
  },
  {
@@ -1239,7 +1239,7 @@
   "stage": "Закрытие записи на отбор по химии",
   "when": "20 ноября 2026, 11:00 по новосибирскому времени",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
  },
  {
@@ -1250,8 +1250,63 @@
   "stage": "Закрытие записи на финал по химии",
   "when": "26 февраля 2027, 11:00 по новосибирскому времени",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/chemistry/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "28 сентября - 16 октября 2026, 11:00 по Новосибирску",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/maths/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Регистрация на отборочный этап",
+  "when": "28 сентября — 16 октября 2026, 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/maths/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Отборочный этап по математике",
+  "when": "18 октября 2026, 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/maths/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Регистрация на заключительный этап",
+  "when": "1–12 февраля 2027, 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/maths/"
+ },
+ {
+  "n": 14,
+  "order_n": 11,
+  "name": "Всесибирская открытая олимпиада школьников",
+  "kind": "этап",
+  "stage": "Заключительный этап по математике",
+  "when": "14 февраля 2027, 11:00 по новосибирскому времени",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://sesc.nsu.ru/olymp-vsesib/sections/maths/"
  },
  {
   "n": 16,
