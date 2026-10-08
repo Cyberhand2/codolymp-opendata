@@ -1,7 +1,7 @@
 {
  "title": "Какие олимпиады дают льготы при поступлении в 2027 году: сводная таблица по вузам",
- "built_on": "2026-10-07",
- "checked_on": "2026-10-05",
+ "built_on": "2026-10-08",
+ "checked_on": "2026-10-07",
  "rules_year": 2026,
  "perechen_basis": {
   "season": "2025/26",
@@ -10,7 +10,7 @@
   "olympiads": 83
  },
  "admission_year": 2027,
- "universities": 59,
+ "universities": 62,
  "any_perechen": 28,
  "olympiads": 83,
  "columns": [
@@ -31,9 +31,9 @@
    "level": 1,
    "profiles": "биология (II); востоковедение (II); география (II); дизайн (I); восточные языки (I); иностранный язык (I); информатика (I); инженерные науки (II); история искусств (II); история (I); промышленное программирование (II); анализ данных (III); культурология (I); математика (I); обществознание (I); международные отношения (II); право (I); психология (II); русский язык (II); социология (II); журналистика (I); физика (II); философия (II); химия (II); финансовая грамотность (I); экономика (I); основы бизнеса (II); филология (I)",
    "subjects": "Биология и медицина, Обществознание и право, Науки о Земле, Искусство и дизайн, Языки, Информатика и программирование, История, Математика, Литература, Физика, Химия, Экономика и финансы",
-   "universities_bvi": 32,
-   "universities_100": 17,
-   "universities_total": 34,
+   "universities_bvi": 35,
+   "universities_100": 20,
+   "universities_total": 37,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/vysshaya-proba-8"
   },
   {
@@ -42,9 +42,9 @@
    "level": 1,
    "profiles": "география (II); иностранный язык (I); история (I); литература (I); математика (I); обществознание (I); журналистика (I); физика (I)",
    "subjects": "Науки о Земле, Языки, История, Литература, Математика, Обществознание и право, Физика",
-   "universities_bvi": 32,
-   "universities_100": 16,
-   "universities_total": 33,
+   "universities_bvi": 35,
+   "universities_100": 19,
+   "universities_total": 36,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/pokori-vorobevy-gory-52"
   },
   {
@@ -53,9 +53,9 @@
    "level": 1,
    "profiles": "биология (I); география (I); иностранный язык (I); филология (I); информатика (I); история (I); медицина (II); математика (I); математическое моделирование и искусственный интеллект (III); инженерные системы (III); обществознание (I); гуманитарные и социальные науки (II); международные отношения (II); политология (II); право (I); психология (III); журналистика (I); физика (II); философия (II); химия (II); экономика (II)",
    "subjects": "Биология и медицина, Науки о Земле, Языки, Литература, Информатика и программирование, История, Математика, Физика, Химия, Инженерия и техника, Обществознание и право, Экономика и финансы",
-   "universities_bvi": 32,
-   "universities_100": 17,
-   "universities_total": 33,
+   "universities_bvi": 35,
+   "universities_100": 20,
+   "universities_total": 36,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/sankt-peterburgskogo-gosudarstvennogo-universiteta-59"
   },
   {
@@ -64,9 +64,9 @@
    "level": 1,
    "profiles": "генетика (II); экология (II); биология (I); география (I); иностранный язык (I); информатика (II); международные отношения и глобалистика (I); политология (II); история (I); основы российской государственности (I); литература (I); математика (I); механика и математическое моделирование (II); космонавтика (II); высокие технологии (I); геология (I); обществознание (I); психология (I); русский язык (I); журналистика (I); физика (I); религиоведение (II); философия (I); химия (I); право (I)",
    "subjects": "Биология и медицина, Науки о Земле, Языки, Информатика и программирование, Обществознание и право, История, Литература, Математика, Инженерия и техника, Физика, Химия",
-   "universities_bvi": 31,
-   "universities_100": 16,
-   "universities_total": 32,
+   "universities_bvi": 34,
+   "universities_100": 19,
+   "universities_total": 35,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/lomonosov-50"
   },
   {
@@ -75,32 +75,10 @@
    "level": 1,
    "profiles": "астрономия (II); генетика (II); география (I); лингвистика (I); информатика (I); предпрофессиональная (III); изобразительное искусство (II); история искусств (I); история (II); математика (I); вероятность и статистика (II); робототехника (II); экология (II); обществознание (II); право (III); физика (I); химия (I); экономика (II); финансовая грамотность (III)",
    "subjects": "Физика, Биология и медицина, Науки о Земле, Языки, Информатика и программирование, Инженерия и техника, Искусство и дизайн, История, Математика, Обществознание и право, Химия, Экономика и финансы",
-   "universities_bvi": 30,
-   "universities_100": 19,
-   "universities_total": 32,
+   "universities_bvi": 33,
+   "universities_100": 22,
+   "universities_total": 35,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/moskovskaya-37"
-  },
-  {
-   "n": 75,
-   "olympiad": "Санкт-Петербургская олимпиада школьников",
-   "level": 1,
-   "profiles": "математика (I); химия (I)",
-   "subjects": "Математика, Химия",
-   "universities_bvi": 30,
-   "universities_100": 13,
-   "universities_total": 32,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/sankt-peterburgskaya-75"
-  },
-  {
-   "n": 81,
-   "olympiad": "Турнир городов",
-   "level": 1,
-   "profiles": "математика (I)",
-   "subjects": "Математика",
-   "universities_bvi": 30,
-   "universities_100": 12,
-   "universities_total": 31,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/turnir-gorodov-81"
   },
   {
    "n": 54,
@@ -108,10 +86,21 @@
    "level": 1,
    "profiles": "биология (II); информатика и программирование (III); математика (II); научно-технический (II); физика (I); инженерное дело (II); химия (III)",
    "subjects": "Биология и медицина, Информатика и программирование, Математика, Физика, Химия",
-   "universities_bvi": 29,
-   "universities_100": 16,
-   "universities_total": 31,
+   "universities_bvi": 32,
+   "universities_100": 19,
+   "universities_total": 34,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/fizteh-54"
+  },
+  {
+   "n": 75,
+   "olympiad": "Санкт-Петербургская олимпиада школьников",
+   "level": 1,
+   "profiles": "математика (I); химия (I)",
+   "subjects": "Математика, Химия",
+   "universities_bvi": 32,
+   "universities_100": 15,
+   "universities_total": 34,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/sankt-peterburgskaya-75"
   },
   {
    "n": 64,
@@ -119,10 +108,21 @@
    "level": 1,
    "profiles": "информатика (I); математика (III); физика (III)",
    "subjects": "Информатика и программирование, Математика, Физика",
-   "universities_bvi": 29,
-   "universities_100": 15,
-   "universities_total": 30,
+   "universities_bvi": 32,
+   "universities_100": 18,
+   "universities_total": 33,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/otkrytaya-olimpiada-shkolnikov-64"
+  },
+  {
+   "n": 81,
+   "olympiad": "Турнир городов",
+   "level": 1,
+   "profiles": "математика (I)",
+   "subjects": "Математика",
+   "universities_bvi": 32,
+   "universities_100": 14,
+   "universities_total": 33,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/turnir-gorodov-81"
   },
   {
    "n": 14,
@@ -130,65 +130,10 @@
    "level": 1,
    "profiles": "биология (II); информатика (II); математика (II); физика (II); химия (I)",
    "subjects": "Биология и медицина, Информатика и программирование, Математика, Физика, Химия",
-   "universities_bvi": 28,
-   "universities_100": 15,
-   "universities_total": 32,
+   "universities_bvi": 31,
+   "universities_100": 18,
+   "universities_total": 35,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/vsesibirskaya-14"
-  },
-  {
-   "n": 82,
-   "olympiad": "Турнир имени М.В. Ломоносова",
-   "level": 2,
-   "profiles": "биология (II); история (II); литература (II); математика (II); лингвистика (II); физика (II); химия (II)",
-   "subjects": "Биология и медицина, История, Литература, Математика, Языки, Физика, Химия",
-   "universities_bvi": 28,
-   "universities_100": 15,
-   "universities_total": 31,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/turnir-m-lomonosova-82"
-  },
-  {
-   "n": 70,
-   "olympiad": "Отраслевая физико-математическая олимпиада школьников «Росатом»",
-   "level": 1,
-   "profiles": "информатика (II); математика (II); физика (I)",
-   "subjects": "Информатика и программирование, Математика, Физика",
-   "universities_bvi": 28,
-   "universities_100": 14,
-   "universities_total": 30,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/otraslevaya-fiziko-matematicheskaya-rosatom-70"
-  },
-  {
-   "n": 15,
-   "olympiad": "Вузовско-академическая олимпиада по информатике",
-   "level": 1,
-   "profiles": "информатика (I)",
-   "subjects": "Информатика и программирование",
-   "universities_bvi": 28,
-   "universities_100": 13,
-   "universities_total": 29,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/vuzovsko-akademicheskaya-informatike-15"
-  },
-  {
-   "n": 56,
-   "olympiad": "Олимпиада школьников по информатике и программированию",
-   "level": 1,
-   "profiles": "информатика (I)",
-   "subjects": "Информатика и программирование",
-   "universities_bvi": 28,
-   "universities_100": 12,
-   "universities_total": 29,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/informatike-programmirovaniyu-56"
-  },
-  {
-   "n": 65,
-   "olympiad": "Открытая олимпиада школьников по программированию",
-   "level": 1,
-   "profiles": "информатика (I)",
-   "subjects": "Информатика и программирование",
-   "universities_bvi": 28,
-   "universities_100": 13,
-   "universities_total": 29,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/programmirovaniyu-65"
   },
   {
    "n": 22,
@@ -196,21 +141,21 @@
    "level": 2,
    "profiles": "робототехника (III); искусственный интеллект (III); информационная безопасность (III); информатика (II); математика (II)",
    "subjects": "Инженерия и техника, Информатика и программирование, Математика",
-   "universities_bvi": 27,
-   "universities_100": 15,
-   "universities_total": 31,
+   "universities_bvi": 30,
+   "universities_100": 18,
+   "universities_total": 34,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhdunarodnaya-innopolis-open-22"
   },
   {
-   "n": 43,
-   "olympiad": "Олимпиада Курчатов",
+   "n": 82,
+   "olympiad": "Турнир имени М.В. Ломоносова",
    "level": 2,
-   "profiles": "математика (II); физика (II)",
-   "subjects": "Математика, Физика",
-   "universities_bvi": 27,
-   "universities_100": 13,
-   "universities_total": 31,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/kurchatov-43"
+   "profiles": "биология (II); история (II); литература (II); математика (II); лингвистика (II); физика (II); химия (II)",
+   "subjects": "Биология и медицина, История, Литература, Математика, Языки, Физика, Химия",
+   "universities_bvi": 30,
+   "universities_100": 18,
+   "universities_total": 34,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/turnir-m-lomonosova-82"
   },
   {
    "n": 34,
@@ -218,9 +163,9 @@
    "level": 1,
    "profiles": "дизайн (I); иностранный язык (II); информатика (III); история (III); право (III); русский язык (II); физика (III); химия (I)",
    "subjects": "Искусство и дизайн, Языки, Информатика и программирование, История, Обществознание и право, Физика, Химия",
-   "universities_bvi": 27,
-   "universities_100": 16,
-   "universities_total": 30,
+   "universities_bvi": 30,
+   "universities_100": 19,
+   "universities_total": 33,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhregionalnye-predmetnye-federalnogo-gosudarstvennogo-avtonomnogo-34"
   },
   {
@@ -229,21 +174,32 @@
    "level": 2,
    "profiles": "информатика (III); инженерное дело (II); математика (III); физика (II); химия (III); компьютерное моделирование и графика (III)",
    "subjects": "Информатика и программирование, Инженерия и техника, Физика, Математика, Химия",
-   "universities_bvi": 27,
-   "universities_100": 14,
-   "universities_total": 30,
+   "universities_bvi": 30,
+   "universities_100": 17,
+   "universities_total": 33,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/shag-buduschee-55"
   },
   {
-   "n": 18,
-   "olympiad": "Инженерная олимпиада школьников",
+   "n": 70,
+   "olympiad": "Отраслевая физико-математическая олимпиада школьников «Росатом»",
    "level": 1,
-   "profiles": "физика (I)",
-   "subjects": "Физика",
-   "universities_bvi": 27,
-   "universities_100": 11,
-   "universities_total": 28,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/inzhenernaya-18"
+   "profiles": "информатика (II); математика (II); физика (I)",
+   "subjects": "Информатика и программирование, Математика, Физика",
+   "universities_bvi": 30,
+   "universities_100": 17,
+   "universities_total": 33,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/otraslevaya-fiziko-matematicheskaya-rosatom-70"
+  },
+  {
+   "n": 43,
+   "olympiad": "Олимпиада Курчатов",
+   "level": 2,
+   "profiles": "математика (II); физика (II)",
+   "subjects": "Математика, Физика",
+   "universities_bvi": 29,
+   "universities_100": 16,
+   "universities_total": 34,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/kurchatov-43"
   },
   {
    "n": 41,
@@ -251,21 +207,43 @@
    "level": 2,
    "profiles": "математика (II); физика (III)",
    "subjects": "Математика, Физика",
-   "universities_bvi": 26,
-   "universities_100": 14,
-   "universities_total": 30,
+   "universities_bvi": 29,
+   "universities_100": 17,
+   "universities_total": 33,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/obedinennaya-mezhvuzovskaya-41"
   },
   {
-   "n": 83,
-   "olympiad": "Университетская олимпиада школьников «Бельчонок»",
-   "level": 2,
-   "profiles": "информатика (II); математика (III); физика (III); химия (II)",
-   "subjects": "Информатика и программирование, Математика, Физика, Химия",
-   "universities_bvi": 25,
+   "n": 15,
+   "olympiad": "Вузовско-академическая олимпиада по информатике",
+   "level": 1,
+   "profiles": "информатика (I)",
+   "subjects": "Информатика и программирование",
+   "universities_bvi": 29,
+   "universities_100": 15,
+   "universities_total": 31,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/vuzovsko-akademicheskaya-informatike-15"
+  },
+  {
+   "n": 56,
+   "olympiad": "Олимпиада школьников по информатике и программированию",
+   "level": 1,
+   "profiles": "информатика (I)",
+   "subjects": "Информатика и программирование",
+   "universities_bvi": 29,
    "universities_100": 14,
-   "universities_total": 30,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/universitetskaya-belchonok-83"
+   "universities_total": 31,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/informatike-programmirovaniyu-56"
+  },
+  {
+   "n": 65,
+   "olympiad": "Открытая олимпиада школьников по программированию",
+   "level": 1,
+   "profiles": "информатика (I)",
+   "subjects": "Информатика и программирование",
+   "universities_bvi": 29,
+   "universities_100": 15,
+   "universities_total": 31,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/programmirovaniyu-65"
   },
   {
    "n": 2,
@@ -273,9 +251,9 @@
    "level": 2,
    "profiles": "математика (II)",
    "subjects": "Математика",
-   "universities_bvi": 25,
-   "universities_100": 13,
-   "universities_total": 29,
+   "universities_bvi": 28,
+   "universities_100": 16,
+   "universities_total": 32,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/formula-edinstva-trete-tysyacheletie-2"
   },
   {
@@ -284,21 +262,21 @@
    "level": 2,
    "profiles": "компьютерная безопасность (II); математика (II)",
    "subjects": "Информатика и программирование, Математика",
-   "universities_bvi": 25,
-   "universities_100": 14,
-   "universities_total": 29,
+   "universities_bvi": 28,
+   "universities_100": 17,
+   "universities_total": 32,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhregionalnaya-ya-verchenko-31"
   },
   {
-   "n": 57,
-   "olympiad": "Олимпиада школьников по программированию «ТехноКубок»",
-   "level": 2,
-   "profiles": "информатика (II)",
-   "subjects": "Информатика и программирование",
-   "universities_bvi": 25,
+   "n": 18,
+   "olympiad": "Инженерная олимпиада школьников",
+   "level": 1,
+   "profiles": "физика (I)",
+   "subjects": "Физика",
+   "universities_bvi": 28,
    "universities_100": 13,
-   "universities_total": 29,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/programmirovaniyu-tehnokubok-57"
+   "universities_total": 30,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/inzhenernaya-18"
   },
   {
    "n": 29,
@@ -306,9 +284,9 @@
    "level": 2,
    "profiles": "биология (II); история (II); математика (III); русский язык (II); физика (III); химия (II)",
    "subjects": "Биология и медицина, История, Математика, Языки, Физика, Химия",
-   "universities_bvi": 25,
-   "universities_100": 14,
-   "universities_total": 27,
+   "universities_bvi": 28,
+   "universities_100": 17,
+   "universities_total": 30,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhregionalnaya-buduschie-issledovateli-buduschee-nauki-29"
   },
   {
@@ -317,21 +295,21 @@
    "level": 2,
    "profiles": "математика (II)",
    "subjects": "Математика",
-   "universities_bvi": 24,
-   "universities_100": 13,
-   "universities_total": 29,
+   "universities_bvi": 27,
+   "universities_100": 16,
+   "universities_total": 32,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/yunosheskoy-matematicheskoy-shkoly-61"
   },
   {
-   "n": 17,
-   "olympiad": "Городская открытая олимпиада школьников по физике",
+   "n": 83,
+   "olympiad": "Университетская олимпиада школьников «Бельчонок»",
    "level": 2,
-   "profiles": "физика (II)",
-   "subjects": "Физика",
-   "universities_bvi": 24,
-   "universities_100": 11,
-   "universities_total": 26,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/gorodskaya-fizike-17"
+   "profiles": "информатика (II); математика (III); физика (III); химия (II)",
+   "subjects": "Информатика и программирование, Математика, Физика, Химия",
+   "universities_bvi": 26,
+   "universities_100": 16,
+   "universities_total": 32,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/universitetskaya-belchonok-83"
   },
   {
    "n": 48,
@@ -339,10 +317,21 @@
    "level": 1,
    "profiles": "иностранный язык (II); история (II); литература (I); обществознание (II); русский язык (II)",
    "subjects": "Языки, История, Литература, Обществознание и право",
-   "universities_bvi": 23,
-   "universities_100": 16,
-   "universities_total": 28,
+   "universities_bvi": 26,
+   "universities_100": 19,
+   "universities_total": 31,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/rggu-48"
+  },
+  {
+   "n": 57,
+   "olympiad": "Олимпиада школьников по программированию «ТехноКубок»",
+   "level": 2,
+   "profiles": "информатика (II)",
+   "subjects": "Информатика и программирование",
+   "universities_bvi": 26,
+   "universities_100": 15,
+   "universities_total": 31,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/programmirovaniyu-tehnokubok-57"
   },
   {
    "n": 26,
@@ -350,21 +339,21 @@
    "level": 3,
    "profiles": "информатика (III); история (III); математика (III); обществознание (III); русский язык (III); физика (III); химия (III)",
    "subjects": "Информатика и программирование, История, Математика, Обществознание и право, Языки, Физика, Химия",
-   "universities_bvi": 23,
-   "universities_100": 14,
-   "universities_total": 27,
+   "universities_bvi": 26,
+   "universities_100": 17,
+   "universities_total": 30,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhdunarodnaya-uralskogo-federalnogo-universiteta-izumrud-26"
   },
   {
-   "n": 66,
-   "olympiad": "Открытая олимпиада школьников по программированию «Когнитивные технологии»",
+   "n": 17,
+   "olympiad": "Городская открытая олимпиада школьников по физике",
    "level": 2,
-   "profiles": "информатика (II)",
-   "subjects": "Информатика и программирование",
-   "universities_bvi": 23,
+   "profiles": "физика (II)",
+   "subjects": "Физика",
+   "universities_bvi": 25,
    "universities_100": 13,
-   "universities_total": 27,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/programmirovaniyu-kognitivnye-tehnologii-66"
+   "universities_total": 28,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/gorodskaya-fizike-17"
   },
   {
    "n": 32,
@@ -372,21 +361,10 @@
    "level": 2,
    "profiles": "иностранный язык (II); физика (III)",
    "subjects": "Языки, Физика",
-   "universities_bvi": 23,
-   "universities_100": 12,
-   "universities_total": 26,
+   "universities_bvi": 25,
+   "universities_100": 14,
+   "universities_total": 28,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhregionalnaya-baze-vedomstvennyh-obrazovatelnyh-organizaciy-32"
-  },
-  {
-   "n": 19,
-   "olympiad": "Интернет-олимпиада школьников по физике",
-   "level": 2,
-   "profiles": "физика (II)",
-   "subjects": "Физика",
-   "universities_bvi": 23,
-   "universities_100": 10,
-   "universities_total": 25,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/internet-fizike-19"
   },
   {
    "n": 62,
@@ -394,21 +372,10 @@
    "level": 2,
    "profiles": "физика (II); химия (II)",
    "subjects": "Физика, Химия",
-   "universities_bvi": 23,
-   "universities_100": 10,
-   "universities_total": 25,
+   "universities_bvi": 25,
+   "universities_100": 13,
+   "universities_total": 28,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhvuzovskaya-sibirskogo-federalnogo-okruga-buduschee-62"
-  },
-  {
-   "n": 7,
-   "olympiad": "Всероссийская олимпиада по искусственному интеллекту (с возможностью участия иностранных обучающихся)",
-   "level": 2,
-   "profiles": "искусственный интеллект (II)",
-   "subjects": "Информатика и программирование",
-   "universities_bvi": 22,
-   "universities_100": 12,
-   "universities_total": 26,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/iskusstvennomu-intellektu-vozmozhnostyu-uchastiya-inostrannyh-7"
   },
   {
    "n": 72,
@@ -416,10 +383,76 @@
    "level": 2,
    "profiles": "иностранный язык (II); экономика (III); русский язык (II)",
    "subjects": "Языки, Экономика и финансы, Обществознание и право",
-   "universities_bvi": 22,
-   "universities_100": 15,
-   "universities_total": 26,
+   "universities_bvi": 24,
+   "universities_100": 18,
+   "universities_total": 29,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/plehanovskaya-72"
+  },
+  {
+   "n": 66,
+   "olympiad": "Открытая олимпиада школьников по программированию «Когнитивные технологии»",
+   "level": 2,
+   "profiles": "информатика (II)",
+   "subjects": "Информатика и программирование",
+   "universities_bvi": 24,
+   "universities_100": 14,
+   "universities_total": 28,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/programmirovaniyu-kognitivnye-tehnologii-66"
+  },
+  {
+   "n": 19,
+   "olympiad": "Интернет-олимпиада школьников по физике",
+   "level": 2,
+   "profiles": "физика (II)",
+   "subjects": "Физика",
+   "universities_bvi": 24,
+   "universities_100": 12,
+   "universities_total": 27,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/internet-fizike-19"
+  },
+  {
+   "n": 12,
+   "olympiad": "Всероссийская Толстовская олимпиада школьников",
+   "level": 3,
+   "profiles": "история (III); литература (III); право (III); обществознание (III)",
+   "subjects": "История, Литература, Обществознание и право",
+   "universities_bvi": 23,
+   "universities_100": 18,
+   "universities_total": 29,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/tolstovskaya-12"
+  },
+  {
+   "n": 58,
+   "olympiad": "Олимпиада школьников Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации",
+   "level": 2,
+   "profiles": "иностранный язык (III); история (II); обществознание (II); политология (III); журналистика (II); финансовая грамотность (III); экономика (III)",
+   "subjects": "Языки, История, Обществознание и право, Литература, Экономика и финансы",
+   "universities_bvi": 23,
+   "universities_100": 20,
+   "universities_total": 29,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/rossiyskoy-akademii-narodnogo-hozyaystva-gosudarstvennoy-58"
+  },
+  {
+   "n": 7,
+   "olympiad": "Всероссийская олимпиада по искусственному интеллекту (с возможностью участия иностранных обучающихся)",
+   "level": 2,
+   "profiles": "искусственный интеллект (II)",
+   "subjects": "Информатика и программирование",
+   "universities_bvi": 23,
+   "universities_100": 13,
+   "universities_total": 27,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/iskusstvennomu-intellektu-vozmozhnostyu-uchastiya-inostrannyh-7"
+  },
+  {
+   "n": 4,
+   "olympiad": "Всероссийская академическая олимпиада школьников имени В.И. Вернадского",
+   "level": 1,
+   "profiles": "гуманитарные и социальные науки (I); экономика (I)",
+   "subjects": "История, Обществознание и право, Экономика и финансы",
+   "universities_bvi": 23,
+   "universities_100": 13,
+   "universities_total": 26,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/akademicheskaya-vernadskogo-4"
   },
   {
    "n": 5,
@@ -427,10 +460,54 @@
    "level": 2,
    "profiles": "геномное редактирование (III); инфохимия (III); космические системы: анализ космических снимков и геопространственных данных, спутниковые системы (II); беспилотный транспорт: аэрокосмические системы, беспилотные авиационные системы, водные робототехнические системы, летающая робототехника (II); нейротехнологии и когнитивные науки (III); информационная безопасность (III); виртуальные миры: разработка компьютерных игр, технологии виртуальной реальности, технологии дополненной реальности, цифровые технологии в архитектуре (III); технологии беспроводной связи (III); умные системы и технологии: умный город, цифровые сенсорные системы (III); интеллектуальные робототехнические системы (III); искусственный интеллект (III); разработка мобильных приложений (III); автоматизация бизнес-процессов (II); программная инженерия в финансовых технологиях (III); большие данные и машинное обучение (III); интеллектуальные энергетические системы (III); автономные транспортные системы (II); квантовый инжиниринг (III); инженерные биологические системы (II); ядерные технологии (II); наносистемы и химический инжиниринг (III)",
    "subjects": "Биология и медицина, Инженерия и техника, Химия, Информатика и программирование, Физика, Науки о Земле, Искусство и дизайн, Математика, Прочее, Экономика и финансы, Языки",
-   "universities_bvi": 22,
-   "universities_100": 12,
-   "universities_total": 25,
+   "universities_bvi": 23,
+   "universities_100": 13,
+   "universities_total": 26,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhdisciplinarnaya-8-11-klassov-nacionalnaya-5"
+  },
+  {
+   "n": 53,
+   "olympiad": "Олимпиада школьников «Робофест»",
+   "level": 2,
+   "profiles": "физика (II)",
+   "subjects": "Физика",
+   "universities_bvi": 23,
+   "universities_100": 12,
+   "universities_total": 26,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/robofest-53"
+  },
+  {
+   "n": 23,
+   "olympiad": "Международная олимпиада по финансовой безопасности",
+   "level": 1,
+   "profiles": "финансовая безопасность (I)",
+   "subjects": "Экономика и финансы, Информатика и программирование, Обществознание и право",
+   "universities_bvi": 23,
+   "universities_100": 13,
+   "universities_total": 25,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhdunarodnaya-finansovoy-bezopasnosti-23"
+  },
+  {
+   "n": 42,
+   "olympiad": "Океан знаний",
+   "level": 3,
+   "profiles": "обществознание (III); русский язык (III)",
+   "subjects": "Обществознание и право, Языки",
+   "universities_bvi": 22,
+   "universities_100": 17,
+   "universities_total": 28,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/okean-znaniy-42"
+  },
+  {
+   "n": 49,
+   "olympiad": "Олимпиада школьников «Гранит науки»",
+   "level": 2,
+   "profiles": "информатика (II); естественные науки (III); химия (III)",
+   "subjects": "Информатика и программирование, Науки о Земле, Инженерия и техника, Физика, Химия",
+   "universities_bvi": 22,
+   "universities_100": 15,
+   "universities_total": 28,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/granit-nauki-49"
   },
   {
    "n": 13,
@@ -444,103 +521,26 @@
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/vserossiyskiy-konkurs-nauchnyh-rabot-yunior-13"
   },
   {
-   "n": 23,
-   "olympiad": "Международная олимпиада по финансовой безопасности",
-   "level": 1,
-   "profiles": "финансовая безопасность (I)",
-   "subjects": "Экономика и финансы, Информатика и программирование, Обществознание и право",
-   "universities_bvi": 22,
-   "universities_100": 12,
-   "universities_total": 24,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhdunarodnaya-finansovoy-bezopasnosti-23"
-  },
-  {
-   "n": 53,
-   "olympiad": "Олимпиада школьников «Робофест»",
-   "level": 2,
-   "profiles": "физика (II)",
-   "subjects": "Физика",
-   "universities_bvi": 22,
-   "universities_100": 10,
-   "universities_total": 24,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/robofest-53"
-  },
-  {
-   "n": 4,
-   "olympiad": "Всероссийская академическая олимпиада школьников имени В.И. Вернадского",
-   "level": 1,
-   "profiles": "гуманитарные и социальные науки (I); экономика (I)",
-   "subjects": "История, Обществознание и право, Экономика и финансы",
-   "universities_bvi": 21,
-   "universities_100": 11,
-   "universities_total": 24,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/akademicheskaya-vernadskogo-4"
-  },
-  {
-   "n": 12,
-   "olympiad": "Всероссийская Толстовская олимпиада школьников",
-   "level": 3,
-   "profiles": "история (III); литература (III); право (III); обществознание (III)",
-   "subjects": "История, Литература, Обществознание и право",
-   "universities_bvi": 20,
-   "universities_100": 15,
-   "universities_total": 26,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/tolstovskaya-12"
-  },
-  {
-   "n": 58,
-   "olympiad": "Олимпиада школьников Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации",
-   "level": 2,
-   "profiles": "иностранный язык (III); история (II); обществознание (II); политология (III); журналистика (II); финансовая грамотность (III); экономика (III)",
-   "subjects": "Языки, История, Обществознание и право, Литература, Экономика и финансы",
-   "universities_bvi": 20,
-   "universities_100": 17,
-   "universities_total": 26,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/rossiyskoy-akademii-narodnogo-hozyaystva-gosudarstvennoy-58"
-  },
-  {
-   "n": 49,
-   "olympiad": "Олимпиада школьников «Гранит науки»",
-   "level": 2,
-   "profiles": "информатика (II); естественные науки (III); химия (III)",
-   "subjects": "Информатика и программирование, Науки о Земле, Инженерия и техника, Физика, Химия",
-   "universities_bvi": 20,
-   "universities_100": 12,
-   "universities_total": 25,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/granit-nauki-49"
-  },
-  {
-   "n": 69,
-   "olympiad": "Отраслевая олимпиада школьников «Газпром»",
-   "level": 3,
-   "profiles": "информационные и коммуникационные технологии (III); инженерное дело (III)",
-   "subjects": "Инженерия и техника, Информатика и программирование, Физика",
-   "universities_bvi": 20,
-   "universities_100": 12,
-   "universities_total": 24,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/otraslevaya-gazprom-69"
-  },
-  {
    "n": 35,
    "olympiad": "Многопредметная олимпиада «Юные таланты»",
    "level": 1,
    "profiles": "география (I); геология (III); химия (I)",
    "subjects": "Науки о Земле, Химия",
-   "universities_bvi": 20,
-   "universities_100": 6,
-   "universities_total": 22,
+   "universities_bvi": 22,
+   "universities_100": 8,
+   "universities_total": 24,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/mnogopredmetnaya-yunye-talanty-35"
   },
   {
-   "n": 42,
-   "olympiad": "Океан знаний",
-   "level": 3,
-   "profiles": "обществознание (III); русский язык (III)",
-   "subjects": "Обществознание и право, Языки",
-   "universities_bvi": 19,
-   "universities_100": 14,
-   "universities_total": 25,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/okean-znaniy-42"
+   "n": 9,
+   "olympiad": "Всероссийская олимпиада школьников «Миссия выполнима. Твое призвание - финансист!»",
+   "level": 2,
+   "profiles": "иностранный язык (III); история (III); обществознание (III); финансовая грамотность (II); экономика (II)",
+   "subjects": "Языки, История, Обществознание и право, Экономика и финансы",
+   "universities_bvi": 21,
+   "universities_100": 18,
+   "universities_total": 28,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/missiya-vypolnima-tvoe-prizvanie-finansist-9"
   },
   {
    "n": 67,
@@ -548,10 +548,98 @@
    "level": 2,
    "profiles": "география (III); история (III); литература (II); русский язык (II); физика (III); химия (III)",
    "subjects": "Науки о Земле, История, Литература, Языки, Физика, Химия",
-   "universities_bvi": 19,
-   "universities_100": 13,
-   "universities_total": 23,
+   "universities_bvi": 21,
+   "universities_100": 16,
+   "universities_total": 26,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/regionalnaya-mezhvuzovskaya-ormo-mezhdunarodnym-uchastiem-67"
+  },
+  {
+   "n": 69,
+   "olympiad": "Отраслевая олимпиада школьников «Газпром»",
+   "level": 3,
+   "profiles": "информационные и коммуникационные технологии (III); инженерное дело (III)",
+   "subjects": "Инженерия и техника, Информатика и программирование, Физика",
+   "universities_bvi": 21,
+   "universities_100": 13,
+   "universities_total": 25,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/otraslevaya-gazprom-69"
+  },
+  {
+   "n": 51,
+   "olympiad": "Олимпиада школьников «Надежда энергетики»",
+   "level": 3,
+   "profiles": "физика (III)",
+   "subjects": "Физика",
+   "universities_bvi": 20,
+   "universities_100": 12,
+   "universities_total": 24,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/nadezhda-energetiki-51"
+  },
+  {
+   "n": 79,
+   "olympiad": "Твой путь в настоящую науку",
+   "level": 2,
+   "profiles": "физика (II)",
+   "subjects": "Физика",
+   "universities_bvi": 20,
+   "universities_100": 11,
+   "universities_total": 23,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/tvoy-put-nastoyaschuyu-nauku-79"
+  },
+  {
+   "n": 44,
+   "olympiad": "Олимпиада МГИМО МИД России для школьников",
+   "level": 2,
+   "profiles": "гуманитарные и социальные науки (II)",
+   "subjects": "История, Обществознание и право",
+   "universities_bvi": 19,
+   "universities_100": 15,
+   "universities_total": 25,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/mgimo-mid-rossii-44"
+  },
+  {
+   "n": 16,
+   "olympiad": "Герценовская олимпиада школьников",
+   "level": 2,
+   "profiles": "география (II); иностранный язык (II)",
+   "subjects": "Науки о Земле, Языки",
+   "universities_bvi": 19,
+   "universities_100": 11,
+   "universities_total": 24,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/gercenovskaya-16"
+  },
+  {
+   "n": 27,
+   "olympiad": "Межрегиональная олимпиада по праву «ФЕМИДА»",
+   "level": 2,
+   "profiles": "право (II)",
+   "subjects": "Обществознание и право",
+   "universities_bvi": 19,
+   "universities_100": 12,
+   "universities_total": 24,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhregionalnaya-pravu-femida-27"
+  },
+  {
+   "n": 73,
+   "olympiad": "Региональный конкурс школьников Челябинского университетского образовательного округа",
+   "level": 3,
+   "profiles": "иностранный язык (III); обществознание (III)",
+   "subjects": "Языки, Обществознание и право",
+   "universities_bvi": 19,
+   "universities_100": 15,
+   "universities_total": 24,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/regionalnyy-konkurs-chelyabinskogo-universitetskogo-obrazovatelnogo-73"
+  },
+  {
+   "n": 24,
+   "olympiad": "Международная олимпиада школьников «Евразийская лингвистическая олимпиада»",
+   "level": 2,
+   "profiles": "иностранный язык (II)",
+   "subjects": "Языки",
+   "universities_bvi": 19,
+   "universities_100": 11,
+   "universities_total": 23,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhdunarodnaya-evraziyskaya-lingvisticheskaya-24"
   },
   {
    "n": 36,
@@ -565,15 +653,15 @@
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/mnogoprofilnaya-inzhenernaya-zvezda-36"
   },
   {
-   "n": 51,
-   "olympiad": "Олимпиада школьников «Надежда энергетики»",
-   "level": 3,
-   "profiles": "физика (III)",
-   "subjects": "Физика",
+   "n": 11,
+   "olympiad": "Всероссийская Сеченовская олимпиада школьников",
+   "level": 2,
+   "profiles": "биология (II); химия (II)",
+   "subjects": "Биология и медицина, Химия",
    "universities_bvi": 19,
-   "universities_100": 10,
-   "universities_total": 22,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/nadezhda-energetiki-51"
+   "universities_100": 8,
+   "universities_total": 21,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/sechenovskaya-11"
   },
   {
    "n": 47,
@@ -587,15 +675,15 @@
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/ekonomike-ramkah-mezhdunarodnogo-ekonomicheskogo-festivalya-47"
   },
   {
-   "n": 79,
-   "olympiad": "Твой путь в настоящую науку",
-   "level": 2,
-   "profiles": "физика (II)",
+   "n": 74,
+   "olympiad": "Санкт-Петербургская астрономическая олимпиада",
+   "level": 1,
+   "profiles": "астрономия (I)",
    "subjects": "Физика",
    "universities_bvi": 19,
-   "universities_100": 9,
-   "universities_total": 21,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/tvoy-put-nastoyaschuyu-nauku-79"
+   "universities_100": 6,
+   "universities_total": 20,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/sankt-peterburgskaya-astronomicheskaya-74"
   },
   {
    "n": 20,
@@ -609,114 +697,15 @@
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/kutafinskaya-pravu-20"
   },
   {
-   "n": 9,
-   "olympiad": "Всероссийская олимпиада школьников «Миссия выполнима. Твое призвание - финансист!»",
-   "level": 2,
-   "profiles": "иностранный язык (III); история (III); обществознание (III); финансовая грамотность (II); экономика (II)",
-   "subjects": "Языки, История, Обществознание и право, Экономика и финансы",
-   "universities_bvi": 18,
-   "universities_100": 15,
-   "universities_total": 25,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/missiya-vypolnima-tvoe-prizvanie-finansist-9"
-  },
-  {
-   "n": 16,
-   "olympiad": "Герценовская олимпиада школьников",
-   "level": 2,
-   "profiles": "география (II); иностранный язык (II)",
-   "subjects": "Науки о Земле, Языки",
-   "universities_bvi": 18,
-   "universities_100": 10,
-   "universities_total": 23,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/gercenovskaya-16"
-  },
-  {
-   "n": 27,
-   "olympiad": "Межрегиональная олимпиада по праву «ФЕМИДА»",
-   "level": 2,
-   "profiles": "право (II)",
-   "subjects": "Обществознание и право",
-   "universities_bvi": 18,
-   "universities_100": 11,
-   "universities_total": 23,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhregionalnaya-pravu-femida-27"
-  },
-  {
-   "n": 24,
-   "olympiad": "Международная олимпиада школьников «Евразийская лингвистическая олимпиада»",
-   "level": 2,
-   "profiles": "иностранный язык (II)",
-   "subjects": "Языки",
-   "universities_bvi": 18,
-   "universities_100": 10,
-   "universities_total": 22,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhdunarodnaya-evraziyskaya-lingvisticheskaya-24"
-  },
-  {
-   "n": 74,
-   "olympiad": "Санкт-Петербургская астрономическая олимпиада",
-   "level": 1,
-   "profiles": "астрономия (I)",
-   "subjects": "Физика",
-   "universities_bvi": 18,
-   "universities_100": 5,
-   "universities_total": 19,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/sankt-peterburgskaya-astronomicheskaya-74"
-  },
-  {
-   "n": 44,
-   "olympiad": "Олимпиада МГИМО МИД России для школьников",
-   "level": 2,
-   "profiles": "гуманитарные и социальные науки (II)",
-   "subjects": "История, Обществознание и право",
-   "universities_bvi": 17,
-   "universities_100": 13,
-   "universities_total": 23,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/mgimo-mid-rossii-44"
-  },
-  {
-   "n": 73,
-   "olympiad": "Региональный конкурс школьников Челябинского университетского образовательного округа",
-   "level": 3,
-   "profiles": "иностранный язык (III); обществознание (III)",
-   "subjects": "Языки, Обществознание и право",
-   "universities_bvi": 17,
-   "universities_100": 13,
-   "universities_total": 22,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/regionalnyy-konkurs-chelyabinskogo-universitetskogo-obrazovatelnogo-73"
-  },
-  {
-   "n": 11,
-   "olympiad": "Всероссийская Сеченовская олимпиада школьников",
-   "level": 2,
-   "profiles": "биология (II); химия (II)",
-   "subjects": "Биология и медицина, Химия",
-   "universities_bvi": 17,
-   "universities_100": 6,
-   "universities_total": 19,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/sechenovskaya-11"
-  },
-  {
    "n": 39,
    "olympiad": "Оборонно-техническая олимпиада",
    "level": 3,
    "profiles": "техника и технологии (III)",
    "subjects": "Инженерия и техника, Информатика и программирование, Физика",
-   "universities_bvi": 16,
-   "universities_100": 8,
-   "universities_total": 18,
+   "universities_bvi": 17,
+   "universities_100": 9,
+   "universities_total": 19,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/oboronno-tehnicheskaya-39"
-  },
-  {
-   "n": 1,
-   "olympiad": "«Финатлон для старшеклассников» - Всероссийская олимпиада по финансовой грамотности, устойчивому развитию и защите прав потребителей финансовых услуг",
-   "level": 3,
-   "profiles": "финансовая грамотность (III)",
-   "subjects": "Экономика и финансы, Обществознание и право",
-   "universities_bvi": 15,
-   "universities_100": 12,
-   "universities_total": 20,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/finatlon-starsheklassnikov-finansovoy-gramotnosti-ustoychivomu-1"
   },
   {
    "n": 68,
@@ -724,10 +713,21 @@
    "level": 3,
    "profiles": "химия (III)",
    "subjects": "Химия",
-   "universities_bvi": 15,
-   "universities_100": 5,
-   "universities_total": 17,
+   "universities_bvi": 17,
+   "universities_100": 7,
+   "universities_total": 19,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/himicheskaya-68"
+  },
+  {
+   "n": 1,
+   "olympiad": "«Финатлон для старшеклассников» - Всероссийская олимпиада по финансовой грамотности, устойчивому развитию и защите прав потребителей финансовых услуг",
+   "level": 3,
+   "profiles": "финансовая грамотность (III)",
+   "subjects": "Экономика и финансы, Обществознание и право",
+   "universities_bvi": 16,
+   "universities_100": 13,
+   "universities_total": 21,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/finatlon-starsheklassnikov-finansovoy-gramotnosti-ustoychivomu-1"
   },
   {
    "n": 71,
@@ -735,10 +735,32 @@
    "level": 3,
    "profiles": "биология (III); химия (III)",
    "subjects": "Биология и медицина, Химия",
+   "universities_bvi": 16,
+   "universities_100": 7,
+   "universities_total": 18,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/pirogovskaya-himii-biologii-71"
+  },
+  {
+   "n": 33,
+   "olympiad": "Межрегиональная химическая олимпиада школьников имени академика П.Д. Саркисова",
+   "level": 3,
+   "profiles": "химия (III)",
+   "subjects": "Химия",
+   "universities_bvi": 14,
+   "universities_100": 6,
+   "universities_total": 16,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhregionalnaya-himicheskaya-akademika-p-d-33"
+  },
+  {
+   "n": 46,
+   "olympiad": "Олимпиада по химии и химической технологии «Потомки Менделеева»",
+   "level": 2,
+   "profiles": "химия (II)",
+   "subjects": "Химия",
    "universities_bvi": 14,
    "universities_100": 5,
-   "universities_total": 16,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/pirogovskaya-himii-biologii-71"
+   "universities_total": 15,
+   "page_url": "https://codolymp.ru/postuplenie/olimpiada/himii-himicheskoy-tehnologii-potomki-mendeleeva-46"
   },
   {
    "n": 60,
@@ -750,28 +772,6 @@
    "universities_100": 8,
    "universities_total": 16,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/federalnogo-gosudarstvennogo-byudzhetnogo-obrazovatelnogo-uchrezhdeniya-60"
-  },
-  {
-   "n": 33,
-   "olympiad": "Межрегиональная химическая олимпиада школьников имени академика П.Д. Саркисова",
-   "level": 3,
-   "profiles": "химия (III)",
-   "subjects": "Химия",
-   "universities_bvi": 13,
-   "universities_100": 5,
-   "universities_total": 15,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/mezhregionalnaya-himicheskaya-akademika-p-d-33"
-  },
-  {
-   "n": 46,
-   "olympiad": "Олимпиада по химии и химической технологии «Потомки Менделеева»",
-   "level": 2,
-   "profiles": "химия (II)",
-   "subjects": "Химия",
-   "universities_bvi": 13,
-   "universities_100": 4,
-   "universities_total": 14,
-   "page_url": "https://codolymp.ru/postuplenie/olimpiada/himii-himicheskoy-tehnologii-potomki-mendeleeva-46"
   },
   {
    "n": 80,
@@ -801,9 +801,9 @@
    "level": 1,
    "profiles": "аграрная генетика (I)",
    "subjects": "Биология и медицина",
-   "universities_bvi": 11,
-   "universities_100": 4,
-   "universities_total": 13,
+   "universities_bvi": 12,
+   "universities_100": 5,
+   "universities_total": 14,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/agrogenetike-starshih-klassov-innagrika-6"
   },
   {
@@ -824,8 +824,8 @@
    "profiles": "родные языки (III); филология (III)",
    "subjects": "Прочее, Языки, Литература",
    "universities_bvi": 9,
-   "universities_100": 6,
-   "universities_total": 12,
+   "universities_100": 7,
+   "universities_total": 13,
    "page_url": "https://codolymp.ru/postuplenie/olimpiada/severo-vostochnaya-76"
   },
   {

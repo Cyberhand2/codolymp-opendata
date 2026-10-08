@@ -315,7 +315,7 @@
   "stage": "",
   "when": "1 июля — 20 сентября 2026",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -326,7 +326,7 @@
   "stage": "Тренировочный этап и регистрация",
   "when": "1 июля — 20 сентября 2026",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -337,7 +337,7 @@
   "stage": "Вебинар по подготовке к отборочному этапу",
   "when": "19 сентября",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -348,7 +348,7 @@
   "stage": "Отборочный этап",
   "when": "21 сентября — 6 октября",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -357,9 +357,9 @@
   "name": "Всероссийская олимпиада по искусственному интеллекту (с возможностью участия иностранных обучающихся)",
   "kind": "этап",
   "stage": "Результаты отборочного этапа и разбор заданий",
-  "when": "12 октября",
+  "when": "12 октября 2026; проходной балл и список приглашённых до 23:59 МСК; разбор в 15:00 МСК",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -370,7 +370,7 @@
   "stage": "Основной этап, тур 1, онлайн без прокторинга",
   "when": "14 октября 2026, 10:00 — 16 октября 2026, 23:59 МСК; три задачи по ML без прокторинга",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -381,7 +381,7 @@
   "stage": "Итоги тура 1",
   "when": "17 октября",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -392,7 +392,7 @@
   "stage": "Основной этап, тур 2",
   "when": "18 октября, лучшие 25% рейтинга решают одну задачу по ML с прокторингом, 10:00–12:00 МСК",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -403,7 +403,7 @@
   "stage": "Заключительный этап",
   "when": "16–21 ноября",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -414,7 +414,7 @@
   "stage": "Итоги олимпиады и апелляция",
   "when": "20 ноября — у организатора стоит внутри окна заключительного этапа",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -425,7 +425,7 @@
   "stage": "Награждение победителей и призёров",
   "when": "21 ноября",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://ai.edu.gov.ru/"
  },
  {
@@ -1446,9 +1446,9 @@
   "name": "Кутафинская олимпиада школьников по праву",
   "kind": "регистрация",
   "stage": "",
-  "when": "1 октября 2026 — 11 января 2027 (включительно); к заявке прикладываются сканы заявления, согласий и справки из школы",
+  "when": "1 октября 2026 - 11 января 2027, 23:59 МСК (включительно); к заявке прикладываются сканы заявления, согласий и справки из школы",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://msal.ru/content/abiturientam/olimpiady-i-konkursy/kutafinskaya-olimpiada-shkolnikov-po-pravu/"
  },
  {
@@ -1457,9 +1457,9 @@
   "name": "Кутафинская олимпиада школьников по праву",
   "kind": "этап",
   "stage": "Регистрация на отборочный этап",
-  "when": "1 октября 2026 — 11 января 2027",
+  "when": "1 октября 2026 - 11 января 2027, до 23:59 МСК",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://msal.ru/content/abiturientam/olimpiady-i-konkursy/kutafinskaya-olimpiada-shkolnikov-po-pravu/"
  },
  {
@@ -1470,7 +1470,29 @@
   "stage": "Отборочный этап, заочно",
   "when": "16 января 2027 для 8–10 классов, 17 января для 11 класса, 00:00–23:59 МСК",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://msal.ru/content/abiturientam/olimpiady-i-konkursy/kutafinskaya-olimpiada-shkolnikov-po-pravu/"
+ },
+ {
+  "n": 20,
+  "order_n": 15,
+  "name": "Кутафинская олимпиада школьников по праву",
+  "kind": "этап",
+  "stage": "Результаты отборочного этапа",
+  "when": "не позднее 30 января 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://msal.ru/content/abiturientam/olimpiady-i-konkursy/kutafinskaya-olimpiada-shkolnikov-po-pravu/"
+ },
+ {
+  "n": 20,
+  "order_n": 15,
+  "name": "Кутафинская олимпиада школьников по праву",
+  "kind": "этап",
+  "stage": "Регистрация на заключительный этап",
+  "when": "1-20 февраля 2027, до 23:59 МСК 20 февраля; требуется подтверждение участия в системе организатора",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://msal.ru/content/abiturientam/olimpiady-i-konkursy/kutafinskaya-olimpiada-shkolnikov-po-pravu/"
  },
  {
@@ -1481,7 +1503,51 @@
   "stage": "Заключительный этап, очно",
   "when": "27 февраля 2027 для 8–10 классов, 28 февраля для 11 класса",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://msal.ru/content/abiturientam/olimpiady-i-konkursy/kutafinskaya-olimpiada-shkolnikov-po-pravu/"
+ },
+ {
+  "n": 20,
+  "order_n": 15,
+  "name": "Кутафинская олимпиада школьников по праву",
+  "kind": "этап",
+  "stage": "Проверенные работы и баллы финала",
+  "when": "не позднее 20 марта 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://msal.ru/content/abiturientam/olimpiady-i-konkursy/kutafinskaya-olimpiada-shkolnikov-po-pravu/"
+ },
+ {
+  "n": 20,
+  "order_n": 15,
+  "name": "Кутафинская олимпиада школьников по праву",
+  "kind": "этап",
+  "stage": "Подача апелляций по результатам финала",
+  "when": "до 21 марта 2027 включительно",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://msal.ru/content/abiturientam/olimpiady-i-konkursy/kutafinskaya-olimpiada-shkolnikov-po-pravu/"
+ },
+ {
+  "n": 20,
+  "order_n": 15,
+  "name": "Кутафинская олимпиада школьников по праву",
+  "kind": "этап",
+  "stage": "Рассмотрение апелляций",
+  "when": "24 марта 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://msal.ru/content/abiturientam/olimpiady-i-konkursy/kutafinskaya-olimpiada-shkolnikov-po-pravu/"
+ },
+ {
+  "n": 20,
+  "order_n": 15,
+  "name": "Кутафинская олимпиада школьников по праву",
+  "kind": "этап",
+  "stage": "Результаты апелляций",
+  "when": "не позднее 25 марта 2027",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://msal.ru/content/abiturientam/olimpiady-i-konkursy/kutafinskaya-olimpiada-shkolnikov-po-pravu/"
  },
  {
@@ -1490,9 +1556,9 @@
   "name": "Кутафинская олимпиада школьников по праву",
   "kind": "этап",
   "stage": "Итоги, списки победителей и призёров",
-  "when": "26 марта 2027",
+  "when": "не позднее 26 марта 2027",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://msal.ru/content/abiturientam/olimpiady-i-konkursy/kutafinskaya-olimpiada-shkolnikov-po-pravu/"
  },
  {
@@ -1501,54 +1567,164 @@
   "name": "Международная олимпиада Иннополиса",
   "kind": "регистрация",
   "stage": "",
-  "when": "Сезон 2026/27 не объявлен: 15.09.2026 профиль «Информатика» по-прежнему пишет «Регистрация закрыта!», общая страница держит сроки 2025/26.",
-  "confirmed": "нет",
-  "checked_on": "2026-09-16",
-  "organizer_url": "https://dovuz.innopolis.university/pre-olympiads/innopolis-open"
+  "when": "Информатика: заявки на первый тур до 14 октября 2026, 15:00 МСК; математика: до 20 октября 2026, 15:00 МСК; сроки инженерного профиля отдельно не проверены.",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/informatics"
+ },
+ {
+  "n": 22,
+  "order_n": 16,
+  "name": "Международная олимпиада Иннополиса",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "Заявки на первый отборочный тур до 14 октября 2026, 15:00 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/informatics"
  },
  {
   "n": 22,
   "order_n": 16,
   "name": "Международная олимпиада Иннополиса",
   "kind": "этап",
-  "stage": "Первый отборочный тур",
-  "when": "3–9 ноября 2025, онлайн (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-09-16",
-  "organizer_url": "https://dovuz.innopolis.university/pre-olympiads/innopolis-open"
+  "stage": "Регистрация по информатике",
+  "when": "до 14 октября 2026, 15:00 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/informatics"
  },
  {
   "n": 22,
   "order_n": 16,
   "name": "Международная олимпиада Иннополиса",
   "kind": "этап",
-  "stage": "Окончание регистрации",
-  "when": "4 декабря 2025 в 15:00 МСК (сезон 2025/26)",
+  "stage": "Первый пробный тур по информатике",
+  "when": "17 октября 2026, предварительно",
   "confirmed": "нет",
-  "checked_on": "2026-09-16",
-  "organizer_url": "https://dovuz.innopolis.university/pre-olympiads/innopolis-open"
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/informatics"
  },
  {
   "n": 22,
   "order_n": 16,
   "name": "Международная олимпиада Иннополиса",
   "kind": "этап",
-  "stage": "Второй отборочный тур",
-  "when": "8–14 декабря 2025, онлайн (сезон 2025/26)",
+  "stage": "Первый отборочный тур по информатике",
+  "when": "18 октября 2026, предварительно",
   "confirmed": "нет",
-  "checked_on": "2026-09-16",
-  "organizer_url": "https://dovuz.innopolis.university/pre-olympiads/innopolis-open"
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/informatics"
  },
  {
   "n": 22,
   "order_n": 16,
   "name": "Международная олимпиада Иннополиса",
   "kind": "этап",
-  "stage": "Финальный этап",
-  "when": "27 февраля — 1 марта 2026, очно (сезон 2025/26)",
+  "stage": "Второй пробный тур по информатике",
+  "when": "21 ноября 2026, предварительно",
   "confirmed": "нет",
-  "checked_on": "2026-09-16",
-  "organizer_url": "https://dovuz.innopolis.university/pre-olympiads/innopolis-open"
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/informatics"
+ },
+ {
+  "n": 22,
+  "order_n": 16,
+  "name": "Международная олимпиада Иннополиса",
+  "kind": "этап",
+  "stage": "Второй отборочный тур по информатике",
+  "when": "22 ноября 2026, предварительно",
+  "confirmed": "нет",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/informatics"
+ },
+ {
+  "n": 22,
+  "order_n": 16,
+  "name": "Международная олимпиада Иннополиса",
+  "kind": "этап",
+  "stage": "Заключительный этап по информатике",
+  "when": "26-28 февраля 2027, предварительно",
+  "confirmed": "нет",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/informatics"
+ },
+ {
+  "n": 22,
+  "order_n": 16,
+  "name": "Международная олимпиада Иннополиса",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "Заявки на первый отборочный тур до 20 октября 2026, 15:00 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/math"
+ },
+ {
+  "n": 22,
+  "order_n": 16,
+  "name": "Международная олимпиада Иннополиса",
+  "kind": "этап",
+  "stage": "Регистрация по математике",
+  "when": "до 20 октября 2026, 15:00 МСК",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/math"
+ },
+ {
+  "n": 22,
+  "order_n": 16,
+  "name": "Международная олимпиада Иннополиса",
+  "kind": "этап",
+  "stage": "Первый пробный тур по математике",
+  "when": "24 октября 2026, предварительно",
+  "confirmed": "нет",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/math"
+ },
+ {
+  "n": 22,
+  "order_n": 16,
+  "name": "Международная олимпиада Иннополиса",
+  "kind": "этап",
+  "stage": "Первый отборочный тур по математике",
+  "when": "25 октября 2026, предварительно",
+  "confirmed": "нет",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/math"
+ },
+ {
+  "n": 22,
+  "order_n": 16,
+  "name": "Международная олимпиада Иннополиса",
+  "kind": "этап",
+  "stage": "Второй пробный тур по математике",
+  "when": "28 ноября 2026, предварительно",
+  "confirmed": "нет",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/math"
+ },
+ {
+  "n": 22,
+  "order_n": 16,
+  "name": "Международная олимпиада Иннополиса",
+  "kind": "этап",
+  "stage": "Второй отборочный тур по математике",
+  "when": "29 ноября 2026, предварительно",
+  "confirmed": "нет",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/math"
+ },
+ {
+  "n": 22,
+  "order_n": 16,
+  "name": "Международная олимпиада Иннополиса",
+  "kind": "этап",
+  "stage": "Финал по математике",
+  "when": "5-7 марта 2027, предварительно; очно",
+  "confirmed": "нет",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://dovuz.innopolis.university/innopolis-open/math"
  },
  {
   "n": 23,
@@ -3329,7 +3505,7 @@
   "stage": "",
   "when": "регистрация откроется во второй половине октября 2026 (новость организатора от 23.09.2026), день не назван, график отборочного этапа 2026/27 ещё не опубликован",
   "confirmed": "нет",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://olymp.msu.ru/"
  },
  {
@@ -3340,7 +3516,7 @@
   "stage": "Отборочный этап",
   "when": "в октябре - декабре 2026 года",
   "confirmed": "нет",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://olymp.msu.ru/"
  },
  {
@@ -3351,7 +3527,7 @@
   "stage": "Регистрация на заключительный этап и заключительный этап",
   "when": "февраль - апрель 2027, точные дни ещё не опубликованы",
   "confirmed": "нет",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://olymp.msu.ru/"
  },
  {
@@ -3362,7 +3538,7 @@
   "stage": "Регистрация и отборочный этап",
   "when": "октябрь — декабрь 2025; по математике регистрация до 6 декабря 12:00 (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://olymp.msu.ru/"
  },
  {
@@ -3373,7 +3549,7 @@
   "stage": "Заключительный этап по математике",
   "when": "29 марта 2026, 11:00–14:00, МГУ и региональные площадки (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://olymp.msu.ru/"
  },
  {
@@ -3384,7 +3560,7 @@
   "stage": "Регистрация и отборочный этап по биологии",
   "when": "Регистрация во второй половине октября 2026; отбор октябрь-декабрь 2026; профильный график не опубликован",
   "confirmed": "нет",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://olymp.msu.ru/"
  },
  {
@@ -3395,7 +3571,7 @@
   "stage": "Заключительный этап по биологии",
   "when": "Февраль-апрель 2027, общее окно; точный день не опубликован",
   "confirmed": "нет",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://olymp.msu.ru/"
  },
  {
@@ -4218,7 +4394,7 @@
   "name": "Олимпиада школьников Российской академии народного хозяйства и государственной службы при Президенте Российской Федерации",
   "kind": "регистрация",
   "stage": "",
-  "when": "с 10:00 16 сентября до 18:00 18 ноября 2026 (регистрация на отборочный этап)",
+  "when": "с 10:00 16 сентября до 18:00 18 ноября 2026 (регистрация на отборочный этап); на8 октября основной сайт обновляется, текущую доступность пути участия подтвердить не удалось",
   "confirmed": "да",
   "checked_on": "2026-09-30",
   "organizer_url": "https://www.ranepa.ru/olymp/"
@@ -4836,7 +5012,7 @@
   "stage": "Отборочный этап, 5–9 классы, два тура",
   "when": "1-й тур 3–9 декабря, 2-й тур 4–10 февраля (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-10-07",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://olymp.itmo.ru/"
  },
  {
@@ -4847,7 +5023,7 @@
   "stage": "Отборочный этап, 10–11 классы, с прокторингом",
   "when": "17 января 11:00 — 19 января 21:00 МСК (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-10-07",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://olymp.itmo.ru/"
  },
  {
@@ -4858,7 +5034,7 @@
   "stage": "Заключительный этап",
   "when": "14 марта, очно (сезон 2025/26)",
   "confirmed": "нет",
-  "checked_on": "2026-10-07",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://olymp.itmo.ru/"
  },
  {
@@ -4869,7 +5045,7 @@
   "stage": "Отборочный этап по физике, 1 тур (общий с научно-техническим профилем), дистанционно",
   "when": "с 02 декабря 2026 г. по 13 декабря 2026 г. включительно",
   "confirmed": "да",
-  "checked_on": "2026-10-07",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://olymp.itmo.ru/"
  },
  {
@@ -4880,7 +5056,7 @@
   "stage": "Отборочный этап по физике, 2 тур, дистанционно",
   "when": "с 03 февраля 2027 г. по 14 февраля 2027 г. включительно",
   "confirmed": "да",
-  "checked_on": "2026-10-07",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://olymp.itmo.ru/"
  },
  {
@@ -4891,7 +5067,7 @@
   "stage": "Заключительный этап по физике, очно",
   "when": "21 марта 2027 г.; площадки будут объявлены позднее",
   "confirmed": "да",
-  "checked_on": "2026-10-07",
+  "checked_on": "2026-10-08",
   "organizer_url": "https://olymp.itmo.ru/"
  },
  {
@@ -5520,6 +5696,50 @@
   "confirmed": "нет",
   "checked_on": "2026-10-06",
   "organizer_url": "https://olymp.academtalant.ru/chemspb"
+ },
+ {
+  "n": 76,
+  "order_n": 56,
+  "name": "Северо-Восточная олимпиада школьников",
+  "kind": "регистрация",
+  "stage": "",
+  "when": "По странице соорганизатора ТГУ: электронная регистрация и выполнение заданий на сайте главного организатора до 10 января 2027. Отборочный этап: 10 ноября 2026 - 10 января 2027. Начало регистрации и час закрытия отдельно не указаны. На 8 октября доступность кабинета не подтверждена: ссылка регистрации не отвечает.",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://info.abiturient.tsu.ru/ru/content/olimp-SVOSh"
+ },
+ {
+  "n": 76,
+  "order_n": 56,
+  "name": "Северо-Восточная олимпиада школьников",
+  "kind": "этап",
+  "stage": "Электронная регистрация и выполнение заданий, родные языки",
+  "when": "до 10 января 2027 по странице соорганизатора ТГУ; начало регистрации и час закрытия отдельно не указаны; на 8 октября доступность кабинета не подтверждена",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://info.abiturient.tsu.ru/ru/content/olimp-SVOSh"
+ },
+ {
+  "n": 76,
+  "order_n": 56,
+  "name": "Северо-Восточная олимпиада школьников",
+  "kind": "этап",
+  "stage": "Отборочный этап, дистанционно, родные языки",
+  "when": "10 ноября 2026 - 10 января 2027 по странице соорганизатора ТГУ; час закрытия не указан",
+  "confirmed": "да",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://info.abiturient.tsu.ru/ru/content/olimp-SVOSh"
+ },
+ {
+  "n": 76,
+  "order_n": 56,
+  "name": "Северо-Восточная олимпиада школьников",
+  "kind": "этап",
+  "stage": "Заключительный этап, очно в ТГУ и на региональных площадках, родные языки",
+  "when": "дата сезона 2026/27 в прочитанном объявлении не названа",
+  "confirmed": "нет",
+  "checked_on": "2026-10-08",
+  "organizer_url": "https://info.abiturient.tsu.ru/ru/content/olimp-SVOSh"
  },
  {
   "n": 80,
