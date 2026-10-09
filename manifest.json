@@ -3,7 +3,7 @@
   "license": "CC BY 4.0",
   "repository": "https://github.com/Cyberhand2/codolymp-opendata",
   "attribution": "При использовании укажите источник: Кодолимп, https://codolymp.ru/otkrytye-dannye",
-  "built_on": "2026-10-08",
+  "built_on": "2026-10-09",
   "datasets": [
     {
       "id": "perechen",
@@ -40,7 +40,7 @@
       "id": "schedule",
       "title": "Календарь сезона 2026/27: регистрации и этапы",
       "source": "сайты организаторов, сверка построчно",
-      "rows": 554,
+      "rows": 559,
       "files": [
         "schedule.json",
         "schedule.csv"
