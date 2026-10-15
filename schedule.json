@@ -3450,8 +3450,8 @@
   "stage": "Отборочный этап, интернет-тур — естественные науки, техника и технологии",
   "when": "9 ноября — 9 декабря 2026",
   "confirmed": "да",
-  "checked_on": "2026-10-04",
-  "organizer_url": "https://zv.susu.ru/"
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
  },
  {
   "n": 36,
@@ -3461,8 +3461,63 @@
   "stage": "Отборочный этап, очная форма — естественные науки, техника и технологии",
   "when": "9 ноября — 20 декабря 2026",
   "confirmed": "да",
-  "checked_on": "2026-10-04",
-  "organizer_url": "https://zv.susu.ru/"
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Закрытие интернет-отбора — естественные науки, техника и технологии",
+  "when": "9 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Закрытие очного отбора — естественные науки, техника и технологии",
+  "when": "20 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Заключительный этап, «Приборостроение»",
+  "when": "23 января 2027 (сбор 13.00 – 13.45, работа 14.00 – 17.55 по местному времени площадки; 7–11 классы; 1–2 курсы СПО)",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Заключительный этап, «Технологии материалов»",
+  "when": "24 января 2027 (сбор 12.30 – 12.45, работа 13.00 – 16.55 по местному времени площадки; 7–11 классы; 1–2 курсы СПО)",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Заключительный этап, «Биотехнологии»",
+  "when": "30 января 2027 (сбор 13.00 – 13.45, работа 14.00 – 17.55 по местному времени площадки; 7–11 классы; 1–2 курсы СПО)",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
  },
  {
   "n": 36,
@@ -3470,65 +3525,153 @@
   "name": "Многопрофильная инженерная олимпиада «Звезда»",
   "kind": "этап",
   "stage": "Заключительный этап, «Естественные науки»",
-  "when": "1 февраля, воскресенье (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-10-04",
-  "organizer_url": "https://zv.susu.ru/"
- },
- {
-  "n": 36,
-  "order_n": 25,
-  "name": "Многопрофильная инженерная олимпиада «Звезда»",
-  "kind": "этап",
-  "stage": "Заключительный этап, профили «Техники и технологий»",
-  "when": "с 24 января по 22 марта, по одному профилю в выходной (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-10-04",
-  "organizer_url": "https://zv.susu.ru/"
- },
- {
-  "n": 36,
-  "order_n": 25,
-  "name": "Многопрофильная инженерная олимпиада «Звезда»",
-  "kind": "этап",
-  "stage": "Предварительные результаты заключительного этапа",
-  "when": "«Естественные науки» 6–10 апреля, «Техника и технология» 6–13 апреля (сезон 2025/26)",
-  "confirmed": "нет",
-  "checked_on": "2026-10-04",
-  "organizer_url": "https://zv.susu.ru/"
- },
- {
-  "n": 36,
-  "order_n": 25,
-  "name": "Многопрофильная инженерная олимпиада «Звезда»",
-  "kind": "регистрация",
-  "stage": "",
-  "when": "Очный отбор 9 ноября — 20 декабря 2026; интернет-тур 9 ноября — 9 декабря 2026. Срок отдельной записи не назван.",
+  "when": "31 января 2027 (сбор 09.00 – 09.45, работа 10:00 – 13.55 по местному времени площадки; 6–11 классы)",
   "confirmed": "да",
-  "checked_on": "2026-10-12",
-  "organizer_url": "https://zv.susu.ru/"
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
  },
  {
   "n": 36,
   "order_n": 25,
   "name": "Многопрофильная инженерная олимпиада «Звезда»",
   "kind": "этап",
-  "stage": "Очный отбор естественных наук и техники",
+  "stage": "Заключительный этап, «Нефтегазовое дело»",
+  "when": "6 февраля 2027 (сбор 13.00 – 13.45, работа 14.00 – 17.55 по местному времени площадки; 7–11 классы; 1–2 курсы СПО)",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Заключительный этап, «Информационная безопасность»",
+  "when": "13 февраля 2027 (сбор 13.00 – 13.45, работа 14.00 – 17.55 по местному времени площадки; 7–11 классы; 1–2 курсы СПО)",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Заключительный этап, «ТиТ наземного транспорта»",
+  "when": "14 февраля 2027 (сбор 10.00 – 10.45, работа 11.00 – 14.55 по местному времени площадки; 7–11 классы; 1–2 курсы СПО)",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Заключительный этап, «Авиа И РКТ»",
+  "when": "20 февраля 2027 (сбор 13.00 – 13.45, работа 14.00 – 17.55 по местному времени площадки; 7–11 классы; 1–2 курсы СПО)",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Заключительный этап, «Строительство»",
+  "when": "27 февраля 2027 (сбор 13.00 – 13.45, работа 14.00 – 17.55 по местному времени площадки; 7–11 классы; 1–2 курсы СПО)",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Заключительный этап, «Мехатроника и роботехника»",
+  "when": "28 февраля 2027 (сбор 09.00 – 09.45, работа 10:00 – 13.55 по местному времени площадки; 7–11 классы; 1–2 курсы СПО)",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Заключительный этап, «Экологическая безопасность»",
+  "when": "13 марта 2027 (сбор 13.00 – 13.45, работа 14.00 – 17.55 по местному времени площадки; 7–11 классы; 1–2 курсы СПО)",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Заключительный этап, «Химические технологии»",
+  "when": "14 марта 2027 (сбор 09.00 – 09.45, работа 10:00 – 13.55 по местному времени площадки; 6–11 классы; 1–2 курсы СПО)",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Очный отбор естественных наук",
   "when": "9 ноября–20 декабря 2026",
   "confirmed": "да",
-  "checked_on": "2026-10-12",
-  "organizer_url": "https://zv.susu.ru/"
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
  },
  {
   "n": 36,
   "order_n": 25,
   "name": "Многопрофильная инженерная олимпиада «Звезда»",
   "kind": "этап",
-  "stage": "Интернет-тур естественных наук и техники",
+  "stage": "Интернет-тур естественных наук",
   "when": "9 ноября–9 декабря 2026",
   "confirmed": "да",
-  "checked_on": "2026-10-12",
-  "organizer_url": "https://zv.susu.ru/"
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Закрытие интернет-отбора естественных наук",
+  "when": "9 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Закрытие очного отбора естественных наук",
+  "when": "20 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Заключительный этап, «Естественные науки»",
+  "when": "31 января 2027 (сбор 09.00 – 09.45, работа 10:00 – 13.55 по местному времени площадки; 6–11 классы)",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
  },
  {
   "n": 36,
@@ -3538,7 +3681,7 @@
   "stage": "Очный отбор профиля «Химические технологии»",
   "when": "9 ноября — 20 декабря 2026; 7–11 классы, СПО 1–2 курс",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-15",
   "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
  },
  {
@@ -3549,7 +3692,7 @@
   "stage": "Интернет-отбор профиля «Химические технологии»",
   "when": "9 ноября — 9 декабря 2026; 7–11 классы, СПО 1–2 курс",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-15",
   "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
  },
  {
@@ -3558,9 +3701,9 @@
   "name": "Многопрофильная инженерная олимпиада «Звезда»",
   "kind": "этап",
   "stage": "Финал профиля «Химические технологии», классы расходятся с отбором",
-  "when": "14 марта 2027; сбор 09:00–09:45, работа 10:00–13:55 по местному времени площадки; в графике финала 6–11 классы",
+  "when": "14 марта 2027 (сбор 09:00–09:45, работа 10:00–13:55 по местному времени площадки; в графике финала 6–11 классы)",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-15",
   "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
  },
  {
@@ -3571,7 +3714,7 @@
   "stage": "Закрытие очного отбора профиля «Химические технологии»",
   "when": "20 декабря 2026",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-15",
   "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
  },
  {
@@ -3582,8 +3725,63 @@
   "stage": "Закрытие интернет-отбора профиля «Химические технологии»",
   "when": "9 декабря 2026",
   "confirmed": "да",
-  "checked_on": "2026-10-06",
+  "checked_on": "2026-10-15",
   "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Интернет-отбор профиля «Естественные науки»",
+  "when": "9 ноября — 9 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Очный отбор профиля «Естественные науки»",
+  "when": "9 ноября — 20 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Закрытие интернет-отбора профиля «Естественные науки»",
+  "when": "9 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Закрытие очного отбора профиля «Естественные науки»",
+  "when": "20 декабря 2026",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/otborochnyj-etap/324-grafik-provedeniya-otborochnogo-etapa"
+ },
+ {
+  "n": 36,
+  "order_n": 25,
+  "name": "Многопрофильная инженерная олимпиада «Звезда»",
+  "kind": "этап",
+  "stage": "Заключительный этап, «Естественные науки»",
+  "when": "31 января 2027 (сбор 09.00 – 09.45, работа 10:00 – 13.55 по местному времени площадки; 6–11 классы)",
+  "confirmed": "да",
+  "checked_on": "2026-10-15",
+  "organizer_url": "https://zv.susu.ru/index.php/mnogoprofilnaya-inzhenernaya-olimpiada-zvezda/zaklyuchitelnyj-etap/371-grafik-provedeniya-zaklyuchitelnogo-etapa"
  },
  {
   "n": 37,
